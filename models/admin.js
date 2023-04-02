@@ -24,8 +24,7 @@ const Admin=new Schema({
 
     logo:{
 
-        type:String,
-        required:true
+        type:String
     },
 
     role_id:{

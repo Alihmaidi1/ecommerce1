@@ -8,7 +8,7 @@ exports.addImage=async(req,res,next)=>{
         let name= helper.filename(req.file,"public/temp");
         const image=await sharp(req.file.buffer).resize(400,400).toFile(name);
         res.status(200).json({name})
-    
+        console.log(req.body.name)
 
     }catch(err){
 

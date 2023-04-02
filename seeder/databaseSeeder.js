@@ -8,6 +8,7 @@ mongoose.connect(process.env.Database_URL,{
 }).then(async()=>{
 
     await createRole();
+
     console.log("Seeder Successfully")
 }
 )
