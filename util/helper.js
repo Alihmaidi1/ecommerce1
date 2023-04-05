@@ -1,6 +1,6 @@
 const path=require("path");
 const {validationResult}=require("express-validator");
-
+const jwt=require("jsonwebtoken");
 
 exports.filename=(file,folder)=>{
 
@@ -9,9 +9,10 @@ exports.filename=(file,folder)=>{
 }
 
 
-exports.handleValidation=(req,res,next)=>{
+exports.handleValidation= (req,res,next)=>{
     
-    let error=validationResult(req);    
+    
+    let error= validationResult(req);    
     if(!error.isEmpty()){
         error=error.array().map(object=>object.msg)
         return res.status(422).json(error)
@@ -20,4 +21,11 @@ exports.handleValidation=(req,res,next)=>{
     next()
 }
 
+
+exports.generateToken=(id,secret,time)=>{
+
+    return jwt.sign({id:id},secret,{expiresIn:time});
+
+
+}
 

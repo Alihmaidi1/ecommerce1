@@ -1,6 +1,5 @@
 const mongoose=require("mongoose");
 const Schema=mongoose.Schema;
-
 const Role=new Schema({
 
     name:{
@@ -13,26 +12,20 @@ const Role=new Schema({
     permissions:{
 
         type:Object,
-        required:true
+        required:true,
+        get:(permissions)=>JSON.parse(permissions),
+        set:(permissions)=>JSON.stringify(permissions)
 
-    },
-    admins:[
-
-        {
-
-            id:{
-
-                required:true,
-                type:mongoose.Types.ObjectId,
-                ref:"Admin"
-            }
-
-        }
-
-    ]
+    }
+    
 
 
-});
+},{
+    versionKey:false,
+    toJSON:{getters:true},
+    id:false
+   }
+);
 
 
 module.exports=mongoose.model("Role",Role);

@@ -1,4 +1,4 @@
-const {check,validationResult}=require("express-validator");
+const {check}=require("express-validator");
 
 const checkFile=require("../rule/checkFileexists");
 const handleError=require("../util/helper");
