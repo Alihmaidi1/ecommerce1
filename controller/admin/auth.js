@@ -1,6 +1,7 @@
 const role=require("../../models/role");
 const admin=require("../../models/admin");
 const util=require("../../util/helper");
+
 exports.login=async(req,res,next)=>{
 
     
@@ -9,8 +10,9 @@ exports.login=async(req,res,next)=>{
     let user=await admin.login(email,password);
     if(user!=null)
     {
-        let token=util.generateToken(user.id,process.env.TOKEN_KEY,"1h");        
-        let refreshToken=util.generateToken(user.id,process.env.REFRESH_TOKEN_KEY,"1d");        
+        let token=await util.generateToken(user.id,process.env.TOKEN_KEY,"1h");
+        let refreshToken=await util.generateToken(user.id,process.env.REFRESH_TOKEN_KEY,"1d");
+
         res.status(200).json({refreshToken,token,user})    
     }else{
 
@@ -18,6 +20,31 @@ exports.login=async(req,res,next)=>{
 
     }
 
+
+
+
+}
+
+
+exports.refreshtoken=(req,res,next)=>{
+
+    let token=util.generateToken(req.user.id,process.env.TOKEN_KEY,"1h");        
+    let refreshToken=util.generateToken(req.user.id,process.env.REFRESH_TOKEN_KEY,"1d");        
+    res.status(200).json({refreshToken,token})    
+
+
+
+
+}
+
+
+exports.logout=(req,res,next)=>{
+
+
+    
+
+
+    res.status.json({message:"you are logout successfully"})
 
 
 

@@ -3291,3 +3291,4418 @@
   message: 'HTTP POST /role/store',
   timestamp: '2023-04-05T14:17:24.883Z'
 }
+{
+  meta: {
+    req: {
+      url: '/role/store',
+      headers: {
+        'content-type': 'application/x-www-form-urlencoded',
+        accept: 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmQyMTY5MTVjMTM0ZjUwOWYyNWEwNSIsImlhdCI6MTY4MDcwMjM3NSwiZXhwIjoxNjgwNzA1OTc1fQ.MUrWKqzCHVz_-rjxq0CnjYz-JT35uLxB_mkhTadySBA',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'dccca1fc-0d5a-495f-900a-a66e24b9d670',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '68'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/role/store',
+      query: {}
+    },
+    res: { statusCode: 401 },
+    responseTime: 1
+  },
+  level: 'warn',
+  message: 'HTTP POST /role/store',
+  timestamp: '2023-04-06T07:08:38.754Z'
+}
+{
+  meta: {
+    req: {
+      url: '/login',
+      headers: {
+        accept: 'application/json',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'bbf61ef8-677f-490f-81c8-a06fe0aaefbd',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-type': 'application/x-www-form-urlencoded',
+        'content-length': '49'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/login',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 904
+  },
+  level: 'info',
+  message: 'HTTP POST /login',
+  timestamp: '2023-04-06T07:13:57.588Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/store',
+      headers: {
+        'content-type': 'application/x-www-form-urlencoded',
+        accept: 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc2NTIzNywiZXhwIjoxNjgwNzY4ODM3fQ.RJCvYJeoqiQewzhQ_4z-c_PvOFUucrD-y3VYVZpdllY',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'fc50fe03-6f96-44dd-a8e6-73ae255da562',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '68'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/role/store',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1498
+  },
+  level: 'info',
+  message: 'HTTP POST /role/store',
+  timestamp: '2023-04-06T07:14:21.369Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/store',
+      headers: {
+        'content-type': 'application/x-www-form-urlencoded',
+        accept: 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc2NTIzNywiZXhwIjoxNjgwNzY4ODM3fQ.RJCvYJeoqiQewzhQ_4z-c_PvOFUucrD-y3VYVZpdllY',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'd21711d4-ac66-4ac4-b122-70b2e9740055',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '75'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/role/store',
+      query: {}
+    },
+    res: { statusCode: 422 },
+    responseTime: 1200
+  },
+  level: 'warn',
+  message: 'HTTP POST /role/store',
+  timestamp: '2023-04-06T07:23:24.008Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/store',
+      headers: {
+        'content-type': 'application/x-www-form-urlencoded',
+        accept: 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc2NTIzNywiZXhwIjoxNjgwNzY4ODM3fQ.RJCvYJeoqiQewzhQ_4z-c_PvOFUucrD-y3VYVZpdllY',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'bfd076f3-3752-427b-892d-dc0c07713ea8',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '75'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/role/store',
+      query: {}
+    },
+    res: { statusCode: 422 },
+    responseTime: 1056
+  },
+  level: 'warn',
+  message: 'HTTP POST /role/store',
+  timestamp: '2023-04-06T07:24:04.354Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/store',
+      headers: {
+        'content-type': 'application/x-www-form-urlencoded',
+        accept: 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc2NTIzNywiZXhwIjoxNjgwNzY4ODM3fQ.RJCvYJeoqiQewzhQ_4z-c_PvOFUucrD-y3VYVZpdllY',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '619fd570-15a6-4c78-83fd-eb05be996e59',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '75'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/role/store',
+      query: {}
+    },
+    res: { statusCode: 422 },
+    responseTime: 1159
+  },
+  level: 'warn',
+  message: 'HTTP POST /role/store',
+  timestamp: '2023-04-06T07:24:20.216Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/store',
+      headers: {
+        'content-type': 'application/x-www-form-urlencoded',
+        accept: 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc2NTIzNywiZXhwIjoxNjgwNzY4ODM3fQ.RJCvYJeoqiQewzhQ_4z-c_PvOFUucrD-y3VYVZpdllY',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '5b7dbf74-fb58-4ee9-9e8c-40fea15c5888',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '34'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/role/store',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1434
+  },
+  level: 'info',
+  message: 'HTTP POST /role/store',
+  timestamp: '2023-04-06T07:24:39.674Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/store',
+      headers: {
+        'content-type': 'application/x-www-form-urlencoded',
+        accept: 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc2NTIzNywiZXhwIjoxNjgwNzY4ODM3fQ.RJCvYJeoqiQewzhQ_4z-c_PvOFUucrD-y3VYVZpdllY',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'b3e0ca81-c168-42ed-bfd9-4a6a24460396',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '36'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/role/store',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1583
+  },
+  level: 'info',
+  message: 'HTTP POST /role/store',
+  timestamp: '2023-04-06T07:26:36.273Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/store',
+      headers: {
+        'content-type': 'application/x-www-form-urlencoded',
+        accept: 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc2NTIzNywiZXhwIjoxNjgwNzY4ODM3fQ.RJCvYJeoqiQewzhQ_4z-c_PvOFUucrD-y3VYVZpdllY',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'd231ff14-e4f4-4157-9141-01e31888232b',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '36'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/role/store',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1639
+  },
+  level: 'info',
+  message: 'HTTP POST /role/store',
+  timestamp: '2023-04-06T07:30:29.030Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc2NTIzNywiZXhwIjoxNjgwNzY4ODM3fQ.RJCvYJeoqiQewzhQ_4z-c_PvOFUucrD-y3VYVZpdllY',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '8c8906c5-bfe5-45b4-8294-66bb9ef6ab93',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '0'
+      },
+      method: 'PUT',
+      httpVersion: '1.1',
+      originalUrl: '/role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+      query: {
+        name: 'admin hero',
+        permissions: [ 'admin' ],
+        id: '642e7514d81dd08cf98bfe48'
+      }
+    },
+    res: { statusCode: 404 },
+    responseTime: 731
+  },
+  level: 'warn',
+  message: 'HTTP PUT /role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+  timestamp: '2023-04-06T07:33:28.070Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc2NTIzNywiZXhwIjoxNjgwNzY4ODM3fQ.RJCvYJeoqiQewzhQ_4z-c_PvOFUucrD-y3VYVZpdllY',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'd7897c91-780f-4b15-8437-4d61ca7db686',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '0'
+      },
+      method: 'PUT',
+      httpVersion: '1.1',
+      originalUrl: '/role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+      query: {
+        name: 'admin hero',
+        permissions: [ 'admin' ],
+        id: '642e7514d81dd08cf98bfe48'
+      }
+    },
+    res: { statusCode: 404 },
+    responseTime: 754
+  },
+  level: 'warn',
+  message: 'HTTP PUT /role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+  timestamp: '2023-04-06T07:46:39.842Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc2NTIzNywiZXhwIjoxNjgwNzY4ODM3fQ.RJCvYJeoqiQewzhQ_4z-c_PvOFUucrD-y3VYVZpdllY',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'e8a75763-86b1-441f-9265-748c6848de03',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '0'
+      },
+      method: 'PUT',
+      httpVersion: '1.1',
+      originalUrl: '/role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+      query: {
+        name: 'admin hero',
+        permissions: [ 'admin' ],
+        id: '642e7514d81dd08cf98bfe48'
+      }
+    },
+    res: { statusCode: 404 },
+    responseTime: 652
+  },
+  level: 'warn',
+  message: 'HTTP PUT /role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+  timestamp: '2023-04-06T07:47:39.262Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc2NTIzNywiZXhwIjoxNjgwNzY4ODM3fQ.RJCvYJeoqiQewzhQ_4z-c_PvOFUucrD-y3VYVZpdllY',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '7f941888-638c-41c9-af1c-467ff50d29bd',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '0'
+      },
+      method: 'PUT',
+      httpVersion: '1.1',
+      originalUrl: '/role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+      query: {
+        name: 'admin hero',
+        permissions: [ 'admin' ],
+        id: '642e7514d81dd08cf98bfe48'
+      }
+    },
+    res: { statusCode: 404 },
+    responseTime: 2597
+  },
+  level: 'warn',
+  message: 'HTTP PUT /role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+  timestamp: '2023-04-06T07:48:02.972Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc2NTIzNywiZXhwIjoxNjgwNzY4ODM3fQ.RJCvYJeoqiQewzhQ_4z-c_PvOFUucrD-y3VYVZpdllY',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '70da2640-c52c-49e0-8420-299f120dc764',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '0'
+      },
+      method: 'PUT',
+      httpVersion: '1.1',
+      originalUrl: '/role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+      query: {
+        name: 'admin hero',
+        permissions: [ 'admin' ],
+        id: '642e7514d81dd08cf98bfe48'
+      }
+    },
+    res: { statusCode: 200 },
+    responseTime: 3212
+  },
+  level: 'info',
+  message: 'HTTP PUT /role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+  timestamp: '2023-04-06T07:52:18.749Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc2NTIzNywiZXhwIjoxNjgwNzY4ODM3fQ.RJCvYJeoqiQewzhQ_4z-c_PvOFUucrD-y3VYVZpdllY',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '366cc734-4e3a-497e-970b-f215a40536dc',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '0'
+      },
+      method: 'PUT',
+      httpVersion: '1.1',
+      originalUrl: '/role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+      query: {
+        name: 'admin hero',
+        permissions: [ 'admin' ],
+        id: '642e7514d81dd08cf98bfe48'
+      }
+    },
+    res: { statusCode: 200 },
+    responseTime: 1200
+  },
+  level: 'info',
+  message: 'HTTP PUT /role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+  timestamp: '2023-04-06T07:53:44.664Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc2NTIzNywiZXhwIjoxNjgwNzY4ODM3fQ.RJCvYJeoqiQewzhQ_4z-c_PvOFUucrD-y3VYVZpdllY',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'e42d3ae6-d0f1-4bc6-9bb4-2671215893c4',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '0'
+      },
+      method: 'PUT',
+      httpVersion: '1.1',
+      originalUrl: '/role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+      query: {
+        name: 'admin hero',
+        permissions: [ 'admin' ],
+        id: '642e7514d81dd08cf98bfe48'
+      }
+    },
+    res: { statusCode: 200 },
+    responseTime: 1138
+  },
+  level: 'info',
+  message: 'HTTP PUT /role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+  timestamp: '2023-04-06T07:54:15.482Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc2NTIzNywiZXhwIjoxNjgwNzY4ODM3fQ.RJCvYJeoqiQewzhQ_4z-c_PvOFUucrD-y3VYVZpdllY',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'f56c087b-5c79-44e1-b7e5-0140f9542510',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '0'
+      },
+      method: 'PUT',
+      httpVersion: '1.1',
+      originalUrl: '/role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+      query: {
+        name: 'admin hero',
+        permissions: [ 'admin' ],
+        id: '642e7514d81dd08cf98bfe48'
+      }
+    },
+    res: { statusCode: 200 },
+    responseTime: 3083
+  },
+  level: 'info',
+  message: 'HTTP PUT /role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+  timestamp: '2023-04-06T07:55:27.479Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc2NTIzNywiZXhwIjoxNjgwNzY4ODM3fQ.RJCvYJeoqiQewzhQ_4z-c_PvOFUucrD-y3VYVZpdllY',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '80b09974-d583-4418-ba1c-9025282dabc8',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '0'
+      },
+      method: 'PUT',
+      httpVersion: '1.1',
+      originalUrl: '/role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+      query: {
+        name: 'admin hero',
+        permissions: [ 'admin' ],
+        id: '642e7514d81dd08cf98bfe48'
+      }
+    },
+    res: { statusCode: 200 },
+    responseTime: 1255
+  },
+  level: 'info',
+  message: 'HTTP PUT /role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+  timestamp: '2023-04-06T08:07:14.282Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc2NTIzNywiZXhwIjoxNjgwNzY4ODM3fQ.RJCvYJeoqiQewzhQ_4z-c_PvOFUucrD-y3VYVZpdllY',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'f63f180c-f8a5-4393-842b-e819536372c5',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '0'
+      },
+      method: 'PUT',
+      httpVersion: '1.1',
+      originalUrl: '/role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+      query: {
+        name: 'admin hero',
+        permissions: [ 'admin' ],
+        id: '642e7514d81dd08cf98bfe48'
+      }
+    },
+    res: { statusCode: 422 },
+    responseTime: 1356
+  },
+  level: 'warn',
+  message: 'HTTP PUT /role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+  timestamp: '2023-04-06T08:10:11.680Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc2NTIzNywiZXhwIjoxNjgwNzY4ODM3fQ.RJCvYJeoqiQewzhQ_4z-c_PvOFUucrD-y3VYVZpdllY',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '886fdfa7-f976-49c8-8c55-261e6e2e6792',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '0'
+      },
+      method: 'PUT',
+      httpVersion: '1.1',
+      originalUrl: '/role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+      query: {
+        name: 'admin hero',
+        permissions: [ 'admin' ],
+        id: '642e7514d81dd08cf98bfe48'
+      }
+    },
+    res: { statusCode: 422 },
+    responseTime: 2162
+  },
+  level: 'warn',
+  message: 'HTTP PUT /role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+  timestamp: '2023-04-06T08:12:51.491Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc2NTIzNywiZXhwIjoxNjgwNzY4ODM3fQ.RJCvYJeoqiQewzhQ_4z-c_PvOFUucrD-y3VYVZpdllY',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '59cbc438-5df9-428f-9089-28a53dc21184',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '0'
+      },
+      method: 'PUT',
+      httpVersion: '1.1',
+      originalUrl: '/role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+      query: {
+        name: 'admin hero',
+        permissions: [ 'admin' ],
+        id: '642e7514d81dd08cf98bfe48'
+      }
+    },
+    res: { statusCode: 401 },
+    responseTime: 4
+  },
+  level: 'warn',
+  message: 'HTTP PUT /role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+  timestamp: '2023-04-06T08:14:12.650Z'
+}
+{
+  meta: {
+    req: {
+      url: '/login',
+      headers: {
+        accept: 'application/json',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '870293d5-5467-45a6-bbfe-bfb5f53bd959',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-type': 'application/x-www-form-urlencoded',
+        'content-length': '49'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/login',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 824
+  },
+  level: 'info',
+  message: 'HTTP POST /login',
+  timestamp: '2023-04-06T08:14:18.202Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc2ODg1OCwiZXhwIjoxNjgwNzcyNDU4fQ.ImOaI08QHWu0v2My5SDl1zCfXF4EHc7O7XW0BLmr73E',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'cbd9e416-b79d-4c36-8131-c2bd47e294d3',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '0'
+      },
+      method: 'PUT',
+      httpVersion: '1.1',
+      originalUrl: '/role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+      query: {
+        name: 'admin hero',
+        permissions: [ 'admin' ],
+        id: '642e7514d81dd08cf98bfe48'
+      }
+    },
+    res: { statusCode: 422 },
+    responseTime: 1745
+  },
+  level: 'warn',
+  message: 'HTTP PUT /role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+  timestamp: '2023-04-06T08:14:40.842Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc2ODg1OCwiZXhwIjoxNjgwNzcyNDU4fQ.ImOaI08QHWu0v2My5SDl1zCfXF4EHc7O7XW0BLmr73E',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '1a588f7d-27ca-4d0c-b9df-2f3463a42ee7',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '0'
+      },
+      method: 'PUT',
+      httpVersion: '1.1',
+      originalUrl: '/role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+      query: {
+        name: 'admin hero',
+        permissions: [ 'admin' ],
+        id: '642e7514d81dd08cf98bfe48'
+      }
+    },
+    res: { statusCode: 422 },
+    responseTime: 1409
+  },
+  level: 'warn',
+  message: 'HTTP PUT /role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+  timestamp: '2023-04-06T08:43:57.224Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc2ODg1OCwiZXhwIjoxNjgwNzcyNDU4fQ.ImOaI08QHWu0v2My5SDl1zCfXF4EHc7O7XW0BLmr73E',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '15d770e6-ce91-4f49-972e-1e72bcbe1067',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '0'
+      },
+      method: 'PUT',
+      httpVersion: '1.1',
+      originalUrl: '/role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+      query: {
+        name: 'admin hero',
+        permissions: [ 'admin' ],
+        id: '642e7514d81dd08cf98bfe48'
+      }
+    },
+    res: { statusCode: 401 },
+    responseTime: 3
+  },
+  level: 'warn',
+  message: 'HTTP PUT /role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+  timestamp: '2023-04-06T09:25:26.541Z'
+}
+{
+  meta: {
+    req: {
+      url: '/login',
+      headers: {
+        accept: 'application/json',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'b4b3caac-249a-47f3-b1c1-5c1dd3399352',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-type': 'application/x-www-form-urlencoded',
+        'content-length': '49'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/login',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1233
+  },
+  level: 'info',
+  message: 'HTTP POST /login',
+  timestamp: '2023-04-06T09:25:32.039Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc3MzEzMiwiZXhwIjoxNjgwNzc2NzMyfQ.uPOmQxVx8x2lf1ZgmX-0oFWiK_T8hkE3lZ_0g5_MXV8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '789f0a27-cc53-4ffb-8a96-3b5417971d08',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '0'
+      },
+      method: 'PUT',
+      httpVersion: '1.1',
+      originalUrl: '/role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+      query: {
+        name: 'admin hero',
+        permissions: [ 'admin' ],
+        id: '642e7514d81dd08cf98bfe48'
+      }
+    },
+    res: { statusCode: 422 },
+    responseTime: 3666
+  },
+  level: 'warn',
+  message: 'HTTP PUT /role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+  timestamp: '2023-04-06T09:25:53.090Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc3MzEzMiwiZXhwIjoxNjgwNzc2NzMyfQ.uPOmQxVx8x2lf1ZgmX-0oFWiK_T8hkE3lZ_0g5_MXV8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '5864ca0f-a5a3-4610-aa35-015c9d4213ea',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '0'
+      },
+      method: 'PUT',
+      httpVersion: '1.1',
+      originalUrl: '/role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+      query: {
+        name: 'admin hero',
+        permissions: [ 'admin' ],
+        id: '642e7514d81dd08cf98bfe48'
+      }
+    },
+    res: { statusCode: 422 },
+    responseTime: 3709
+  },
+  level: 'warn',
+  message: 'HTTP PUT /role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+  timestamp: '2023-04-06T09:27:01.202Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc3MzEzMiwiZXhwIjoxNjgwNzc2NzMyfQ.uPOmQxVx8x2lf1ZgmX-0oFWiK_T8hkE3lZ_0g5_MXV8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '46ed5686-0b9e-4a12-b83d-9df7c4cb1de5',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '0'
+      },
+      method: 'PUT',
+      httpVersion: '1.1',
+      originalUrl: '/role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+      query: {
+        name: 'admin hero',
+        permissions: [ 'admin' ],
+        id: '642e7514d81dd08cf98bfe48'
+      }
+    },
+    res: { statusCode: 422 },
+    responseTime: 4631
+  },
+  level: 'warn',
+  message: 'HTTP PUT /role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+  timestamp: '2023-04-06T09:27:21.032Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc3MzEzMiwiZXhwIjoxNjgwNzc2NzMyfQ.uPOmQxVx8x2lf1ZgmX-0oFWiK_T8hkE3lZ_0g5_MXV8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'c47bac48-192c-4f94-ba55-972bca9429f1',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '0'
+      },
+      method: 'PUT',
+      httpVersion: '1.1',
+      originalUrl: '/role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+      query: {
+        name: 'admin hero',
+        permissions: [ 'admin' ],
+        id: '642e7514d81dd08cf98bfe48'
+      }
+    },
+    res: { statusCode: 200 },
+    responseTime: 2206
+  },
+  level: 'info',
+  message: 'HTTP PUT /role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+  timestamp: '2023-04-06T09:28:29.574Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe481',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc3MzEzMiwiZXhwIjoxNjgwNzc2NzMyfQ.uPOmQxVx8x2lf1ZgmX-0oFWiK_T8hkE3lZ_0g5_MXV8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'ff944568-4967-46c2-b86c-fd51fa3a6d18',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '0'
+      },
+      method: 'PUT',
+      httpVersion: '1.1',
+      originalUrl: '/role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe481',
+      query: {
+        name: 'admin hero',
+        permissions: [ 'admin' ],
+        id: '642e7514d81dd08cf98bfe481'
+      }
+    },
+    res: { statusCode: 422 },
+    responseTime: 829
+  },
+  level: 'warn',
+  message: 'HTTP PUT /role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe481',
+  timestamp: '2023-04-06T09:28:44.519Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc3MzEzMiwiZXhwIjoxNjgwNzc2NzMyfQ.uPOmQxVx8x2lf1ZgmX-0oFWiK_T8hkE3lZ_0g5_MXV8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'c9407339-e7f0-42cb-9365-d5d5044aa5a6',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '0'
+      },
+      method: 'PUT',
+      httpVersion: '1.1',
+      originalUrl: '/role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+      query: {
+        name: 'admin hero',
+        permissions: [ 'admin' ],
+        id: '642e7514d81dd08cf98bfe48'
+      }
+    },
+    res: { statusCode: 200 },
+    responseTime: 2621
+  },
+  level: 'info',
+  message: 'HTTP PUT /role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+  timestamp: '2023-04-06T09:29:02.124Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe42',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc3MzEzMiwiZXhwIjoxNjgwNzc2NzMyfQ.uPOmQxVx8x2lf1ZgmX-0oFWiK_T8hkE3lZ_0g5_MXV8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '4e5603d0-d158-40f3-b901-800b690210ed',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '0'
+      },
+      method: 'PUT',
+      httpVersion: '1.1',
+      originalUrl: '/role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe42',
+      query: {
+        name: 'admin hero',
+        permissions: [ 'admin' ],
+        id: '642e7514d81dd08cf98bfe42'
+      }
+    },
+    res: { statusCode: 422 },
+    responseTime: 3673
+  },
+  level: 'warn',
+  message: 'HTTP PUT /role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe42',
+  timestamp: '2023-04-06T09:29:08.063Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc3MzEzMiwiZXhwIjoxNjgwNzc2NzMyfQ.uPOmQxVx8x2lf1ZgmX-0oFWiK_T8hkE3lZ_0g5_MXV8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'fe7459bd-9e1f-459b-9697-acffe798f510',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '0'
+      },
+      method: 'PUT',
+      httpVersion: '1.1',
+      originalUrl: '/role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+      query: {
+        name: 'admin hero',
+        permissions: [ 'admin' ],
+        id: '642e7514d81dd08cf98bfe48'
+      }
+    },
+    res: { statusCode: 200 },
+    responseTime: 3271
+  },
+  level: 'info',
+  message: 'HTTP PUT /role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+  timestamp: '2023-04-06T09:29:18.713Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe481',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc3MzEzMiwiZXhwIjoxNjgwNzc2NzMyfQ.uPOmQxVx8x2lf1ZgmX-0oFWiK_T8hkE3lZ_0g5_MXV8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'f5b4bbc9-a53d-49f5-9445-df57615ca15a',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '0'
+      },
+      method: 'PUT',
+      httpVersion: '1.1',
+      originalUrl: '/role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe481',
+      query: {
+        name: 'admin hero',
+        permissions: [ 'admin' ],
+        id: '642e7514d81dd08cf98bfe481'
+      }
+    },
+    res: { statusCode: 422 },
+    responseTime: 1626
+  },
+  level: 'warn',
+  message: 'HTTP PUT /role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe481',
+  timestamp: '2023-04-06T09:29:25.269Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc3MzEzMiwiZXhwIjoxNjgwNzc2NzMyfQ.uPOmQxVx8x2lf1ZgmX-0oFWiK_T8hkE3lZ_0g5_MXV8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'fed646c3-5e5d-4878-bab0-11481718e3a4',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '0'
+      },
+      method: 'PUT',
+      httpVersion: '1.1',
+      originalUrl: '/role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+      query: {
+        name: 'admin hero',
+        permissions: [ 'admin' ],
+        id: '642e7514d81dd08cf98bfe48'
+      }
+    },
+    res: { statusCode: 200 },
+    responseTime: 4357
+  },
+  level: 'info',
+  message: 'HTTP PUT /role/update?name=admin%20hero&permissions[0]=admin&id=642e7514d81dd08cf98bfe48',
+  timestamp: '2023-04-06T09:29:47.387Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/642e7514d81dd08cf98bfe48',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc3MzEzMiwiZXhwIjoxNjgwNzc2NzMyfQ.uPOmQxVx8x2lf1ZgmX-0oFWiK_T8hkE3lZ_0g5_MXV8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '6d71d772-3da6-47d8-a95a-c22343a5ab01',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/642e7514d81dd08cf98bfe48',
+      query: {}
+    },
+    res: { statusCode: 404 },
+    responseTime: 848
+  },
+  level: 'warn',
+  message: 'HTTP GET /role/642e7514d81dd08cf98bfe48',
+  timestamp: '2023-04-06T09:31:08.107Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/get/',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc3MzEzMiwiZXhwIjoxNjgwNzc2NzMyfQ.uPOmQxVx8x2lf1ZgmX-0oFWiK_T8hkE3lZ_0g5_MXV8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '0a707b0a-a05a-4988-9e1e-c9f1df4f5e63',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/get/',
+      query: {}
+    },
+    res: { statusCode: 404 },
+    responseTime: 2771
+  },
+  level: 'warn',
+  message: 'HTTP GET /role/get/',
+  timestamp: '2023-04-06T09:38:22.175Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/get/d',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc3MzEzMiwiZXhwIjoxNjgwNzc2NzMyfQ.uPOmQxVx8x2lf1ZgmX-0oFWiK_T8hkE3lZ_0g5_MXV8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '19f1499c-388f-49a1-a03f-e75d21d81b2a',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/get/d',
+      query: {}
+    },
+    res: { statusCode: 422 },
+    responseTime: 937
+  },
+  level: 'warn',
+  message: 'HTTP GET /role/get/d',
+  timestamp: '2023-04-06T09:38:29.031Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/get/642e7514d81dd08cf98bfe48',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc3MzEzMiwiZXhwIjoxNjgwNzc2NzMyfQ.uPOmQxVx8x2lf1ZgmX-0oFWiK_T8hkE3lZ_0g5_MXV8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'f6978c75-f397-427c-bad3-5b76a733a211',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/get/642e7514d81dd08cf98bfe48',
+      query: {}
+    },
+    res: { statusCode: 404 },
+    responseTime: 1104
+  },
+  level: 'warn',
+  message: 'HTTP GET /role/get/642e7514d81dd08cf98bfe48',
+  timestamp: '2023-04-06T09:38:40.901Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/get/642e7514d81dd08cf98bfe48',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc3MzEzMiwiZXhwIjoxNjgwNzc2NzMyfQ.uPOmQxVx8x2lf1ZgmX-0oFWiK_T8hkE3lZ_0g5_MXV8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'a8c4109b-b072-4f93-ab2d-1b90b5ee175e',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/get/642e7514d81dd08cf98bfe48',
+      query: {}
+    },
+    res: { statusCode: 404 },
+    responseTime: 1553
+  },
+  level: 'warn',
+  message: 'HTTP GET /role/get/642e7514d81dd08cf98bfe48',
+  timestamp: '2023-04-06T09:38:57.898Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/get/642e7514d81dd08cf98bfe48',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc3MzEzMiwiZXhwIjoxNjgwNzc2NzMyfQ.uPOmQxVx8x2lf1ZgmX-0oFWiK_T8hkE3lZ_0g5_MXV8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'aa1a2012-873b-4826-b38c-c1f339d420b1',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/get/642e7514d81dd08cf98bfe48',
+      query: {}
+    },
+    res: { statusCode: 404 },
+    responseTime: 1211
+  },
+  level: 'warn',
+  message: 'HTTP GET /role/get/642e7514d81dd08cf98bfe48',
+  timestamp: '2023-04-06T09:39:26.571Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/get/642e7514d81dd08cf98bfe4',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc3MzEzMiwiZXhwIjoxNjgwNzc2NzMyfQ.uPOmQxVx8x2lf1ZgmX-0oFWiK_T8hkE3lZ_0g5_MXV8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '227d482a-db1b-44d4-92fa-edcb80b479a8',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/get/642e7514d81dd08cf98bfe4',
+      query: {}
+    },
+    res: { statusCode: 422 },
+    responseTime: 669
+  },
+  level: 'warn',
+  message: 'HTTP GET /role/get/642e7514d81dd08cf98bfe4',
+  timestamp: '2023-04-06T09:39:45.723Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/642e7514d81dd08cf98bfe4/get',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc3MzEzMiwiZXhwIjoxNjgwNzc2NzMyfQ.uPOmQxVx8x2lf1ZgmX-0oFWiK_T8hkE3lZ_0g5_MXV8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'f98bd074-206b-422c-98a2-74081c6f3a7a',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/642e7514d81dd08cf98bfe4/get',
+      query: {}
+    },
+    res: { statusCode: 422 },
+    responseTime: 808
+  },
+  level: 'warn',
+  message: 'HTTP GET /role/642e7514d81dd08cf98bfe4/get',
+  timestamp: '2023-04-06T09:40:29.980Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/642e7514d81dd08cf98bfe48/get',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc3MzEzMiwiZXhwIjoxNjgwNzc2NzMyfQ.uPOmQxVx8x2lf1ZgmX-0oFWiK_T8hkE3lZ_0g5_MXV8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'caf7ca69-b7e7-424e-9274-ffdfc5228f07',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/642e7514d81dd08cf98bfe48/get',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1626
+  },
+  level: 'info',
+  message: 'HTTP GET /role/642e7514d81dd08cf98bfe48/get',
+  timestamp: '2023-04-06T09:40:42.864Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/642e7514d81dd08cf98bfe48',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc3MzEzMiwiZXhwIjoxNjgwNzc2NzMyfQ.uPOmQxVx8x2lf1ZgmX-0oFWiK_T8hkE3lZ_0g5_MXV8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '28c42b5c-e61b-4462-b1ff-32579c02ed1b',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/642e7514d81dd08cf98bfe48',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 3577
+  },
+  level: 'info',
+  message: 'HTTP GET /role/642e7514d81dd08cf98bfe48',
+  timestamp: '2023-04-06T09:41:07.988Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/get/642e7514d81dd08cf98bfe48',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc3MzEzMiwiZXhwIjoxNjgwNzc2NzMyfQ.uPOmQxVx8x2lf1ZgmX-0oFWiK_T8hkE3lZ_0g5_MXV8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '310ebb82-428b-47a5-a402-cc97d920f686',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/get/642e7514d81dd08cf98bfe48',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1549
+  },
+  level: 'info',
+  message: 'HTTP GET /role/get/642e7514d81dd08cf98bfe48',
+  timestamp: '2023-04-06T09:41:27.214Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/get/642e7514d81dd08cf98bfe48',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc3MzEzMiwiZXhwIjoxNjgwNzc2NzMyfQ.uPOmQxVx8x2lf1ZgmX-0oFWiK_T8hkE3lZ_0g5_MXV8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'e545d361-12e8-4c74-9ecb-8d14cb171097',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/get/642e7514d81dd08cf98bfe48',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1389
+  },
+  level: 'info',
+  message: 'HTTP GET /role/get/642e7514d81dd08cf98bfe48',
+  timestamp: '2023-04-06T09:41:44.099Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/get/642e7514d81dd08cf98bfe43',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc3MzEzMiwiZXhwIjoxNjgwNzc2NzMyfQ.uPOmQxVx8x2lf1ZgmX-0oFWiK_T8hkE3lZ_0g5_MXV8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'ec197db6-9c5e-4cdb-918a-44308c4f69d1',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/get/642e7514d81dd08cf98bfe43',
+      query: {}
+    },
+    res: { statusCode: 422 },
+    responseTime: 1077
+  },
+  level: 'warn',
+  message: 'HTTP GET /role/get/642e7514d81dd08cf98bfe43',
+  timestamp: '2023-04-06T09:41:48.091Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/get/642e7514d81dd08cf98bfe48',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc3MzEzMiwiZXhwIjoxNjgwNzc2NzMyfQ.uPOmQxVx8x2lf1ZgmX-0oFWiK_T8hkE3lZ_0g5_MXV8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '6b9155b9-4588-4fae-82ae-299ca419d579',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/get/642e7514d81dd08cf98bfe48',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1704
+  },
+  level: 'info',
+  message: 'HTTP GET /role/get/642e7514d81dd08cf98bfe48',
+  timestamp: '2023-04-06T09:41:52.801Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/get/642e7514d81dd08cf98bfe48',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc3MzEzMiwiZXhwIjoxNjgwNzc2NzMyfQ.uPOmQxVx8x2lf1ZgmX-0oFWiK_T8hkE3lZ_0g5_MXV8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'ccfcf5f2-06e9-4d4d-addb-c37f49e97b99',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/get/642e7514d81dd08cf98bfe48',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 2076
+  },
+  level: 'info',
+  message: 'HTTP GET /role/get/642e7514d81dd08cf98bfe48',
+  timestamp: '2023-04-06T09:44:24.882Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/get/642e7514d81dd08cf98bfe48',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc3MzEzMiwiZXhwIjoxNjgwNzc2NzMyfQ.uPOmQxVx8x2lf1ZgmX-0oFWiK_T8hkE3lZ_0g5_MXV8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'acc1906f-4c79-4750-a545-c83149dc3925',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/get/642e7514d81dd08cf98bfe48',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1938
+  },
+  level: 'info',
+  message: 'HTTP GET /role/get/642e7514d81dd08cf98bfe48',
+  timestamp: '2023-04-06T09:44:43.303Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/get/642e70f9b6e6458f0b2147bc',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc3MzEzMiwiZXhwIjoxNjgwNzc2NzMyfQ.uPOmQxVx8x2lf1ZgmX-0oFWiK_T8hkE3lZ_0g5_MXV8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '6cbf69cf-8120-4e74-aa62-03d2bfa9d084',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/get/642e70f9b6e6458f0b2147bc',
+      query: {}
+    },
+    res: { statusCode: 422 },
+    responseTime: 1375
+  },
+  level: 'warn',
+  message: 'HTTP GET /role/get/642e70f9b6e6458f0b2147bc',
+  timestamp: '2023-04-06T09:44:57.258Z'
+}
+{
+  meta: {
+    req: {
+      url: '/login',
+      headers: {
+        accept: 'application/json',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '24274321-59e9-4ca8-8a91-3db577d36c0e',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-type': 'application/x-www-form-urlencoded',
+        'content-length': '49'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/login',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 838
+  },
+  level: 'info',
+  message: 'HTTP POST /login',
+  timestamp: '2023-04-06T09:45:06.330Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/get/642e70f7b6e6458f0b2147b8',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc3MzEzMiwiZXhwIjoxNjgwNzc2NzMyfQ.uPOmQxVx8x2lf1ZgmX-0oFWiK_T8hkE3lZ_0g5_MXV8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'b26a71e9-ac95-4782-ad2f-af2076deb2e1',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/get/642e70f7b6e6458f0b2147b8',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1892
+  },
+  level: 'info',
+  message: 'HTTP GET /role/get/642e70f7b6e6458f0b2147b8',
+  timestamp: '2023-04-06T09:45:16.582Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/get/642e70f7b6e6458f0b2147b8',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc3MzEzMiwiZXhwIjoxNjgwNzc2NzMyfQ.uPOmQxVx8x2lf1ZgmX-0oFWiK_T8hkE3lZ_0g5_MXV8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'e457d8ca-2533-4c84-b7bc-7d582468eb7a',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/get/642e70f7b6e6458f0b2147b8',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 3450
+  },
+  level: 'info',
+  message: 'HTTP GET /role/get/642e70f7b6e6458f0b2147b8',
+  timestamp: '2023-04-06T09:46:40.695Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/get/642e70f7b6e6458f0b2147b8',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc3MzEzMiwiZXhwIjoxNjgwNzc2NzMyfQ.uPOmQxVx8x2lf1ZgmX-0oFWiK_T8hkE3lZ_0g5_MXV8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'cfb93750-6bd6-4214-aa86-9b64096daf29',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/get/642e70f7b6e6458f0b2147b8',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 2239
+  },
+  level: 'info',
+  message: 'HTTP GET /role/get/642e70f7b6e6458f0b2147b8',
+  timestamp: '2023-04-06T09:47:24.184Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/get/642e70f7b6e6458f0b2147b8',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc3MzEzMiwiZXhwIjoxNjgwNzc2NzMyfQ.uPOmQxVx8x2lf1ZgmX-0oFWiK_T8hkE3lZ_0g5_MXV8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '20ccae8f-5cee-4726-af47-42f16199c597',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/get/642e70f7b6e6458f0b2147b8',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 3737
+  },
+  level: 'info',
+  message: 'HTTP GET /role/get/642e70f7b6e6458f0b2147b8',
+  timestamp: '2023-04-06T09:50:37.038Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/get/642e70f7b6e6458f0b2147b8',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc3MzEzMiwiZXhwIjoxNjgwNzc2NzMyfQ.uPOmQxVx8x2lf1ZgmX-0oFWiK_T8hkE3lZ_0g5_MXV8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'c4674626-c005-4fd6-9286-596ac3aeb38e',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/get/642e70f7b6e6458f0b2147b8',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 2267
+  },
+  level: 'info',
+  message: 'HTTP GET /role/get/642e70f7b6e6458f0b2147b8',
+  timestamp: '2023-04-06T09:51:18.075Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/get/642e70f7b6e6458f0b2147b8',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc3MzEzMiwiZXhwIjoxNjgwNzc2NzMyfQ.uPOmQxVx8x2lf1ZgmX-0oFWiK_T8hkE3lZ_0g5_MXV8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '3c69e74f-643c-46f7-843d-58fa335d0cbd',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/get/642e70f7b6e6458f0b2147b8',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 2392
+  },
+  level: 'info',
+  message: 'HTTP GET /role/get/642e70f7b6e6458f0b2147b8',
+  timestamp: '2023-04-06T09:53:50.653Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/get/642e70f7b6e6458f0b2147b8',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc3MzEzMiwiZXhwIjoxNjgwNzc2NzMyfQ.uPOmQxVx8x2lf1ZgmX-0oFWiK_T8hkE3lZ_0g5_MXV8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '988c9fdf-b79d-493c-95ec-ab50db9d205e',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/get/642e70f7b6e6458f0b2147b8',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1748
+  },
+  level: 'info',
+  message: 'HTTP GET /role/get/642e70f7b6e6458f0b2147b8',
+  timestamp: '2023-04-06T10:03:20.039Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/get/642e70f7b6e6458f0b2147b8',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc3MzEzMiwiZXhwIjoxNjgwNzc2NzMyfQ.uPOmQxVx8x2lf1ZgmX-0oFWiK_T8hkE3lZ_0g5_MXV8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'd2418ade-ed09-4837-a09b-b34b06c32df1',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/get/642e70f7b6e6458f0b2147b8',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 3009
+  },
+  level: 'info',
+  message: 'HTTP GET /role/get/642e70f7b6e6458f0b2147b8',
+  timestamp: '2023-04-06T10:04:38.140Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/get/642e70f7b6e6458f0b2147b8',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc3MzEzMiwiZXhwIjoxNjgwNzc2NzMyfQ.uPOmQxVx8x2lf1ZgmX-0oFWiK_T8hkE3lZ_0g5_MXV8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '7c0fbb33-6ed4-43ab-9a0a-4a19fb20b395',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/get/642e70f7b6e6458f0b2147b8',
+      query: {}
+    },
+    res: { statusCode: 401 },
+    responseTime: 3
+  },
+  level: 'warn',
+  message: 'HTTP GET /role/get/642e70f7b6e6458f0b2147b8',
+  timestamp: '2023-04-06T12:05:39.894Z'
+}
+{
+  meta: {
+    req: {
+      url: '/login',
+      headers: {
+        accept: 'application/json',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'ea2e2de0-83b4-4d85-ab9b-1d53dd631f72',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-type': 'application/x-www-form-urlencoded',
+        'content-length': '49'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/login',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1058
+  },
+  level: 'info',
+  message: 'HTTP POST /login',
+  timestamp: '2023-04-06T12:05:45.620Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/get/642e70f7b6e6458f0b2147b8',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc4Mjc0NSwiZXhwIjoxNjgwNzg2MzQ1fQ.eHN6fDVotGvOxP_SiB2xDsPiQdLuaQsfrGOX-JyFM_8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'da1c162d-767a-4f72-93c7-b6a709943f3a',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/get/642e70f7b6e6458f0b2147b8',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1646
+  },
+  level: 'info',
+  message: 'HTTP GET /role/get/642e70f7b6e6458f0b2147b8',
+  timestamp: '2023-04-06T12:06:05.457Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/get/642e70f7b6e6458f0b2147b8',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc4Mjc0NSwiZXhwIjoxNjgwNzg2MzQ1fQ.eHN6fDVotGvOxP_SiB2xDsPiQdLuaQsfrGOX-JyFM_8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'b9cfa65c-c607-47c1-8668-9fb2b35b777d',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/get/642e70f7b6e6458f0b2147b8',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 4055
+  },
+  level: 'info',
+  message: 'HTTP GET /role/get/642e70f7b6e6458f0b2147b8',
+  timestamp: '2023-04-06T12:06:12.779Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/get/642e70f7b6e6458f0b2147b8',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc4Mjc0NSwiZXhwIjoxNjgwNzg2MzQ1fQ.eHN6fDVotGvOxP_SiB2xDsPiQdLuaQsfrGOX-JyFM_8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'a08ecc95-ec56-4364-a40e-09058e5520d4',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/get/642e70f7b6e6458f0b2147b8',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1789
+  },
+  level: 'info',
+  message: 'HTTP GET /role/get/642e70f7b6e6458f0b2147b8',
+  timestamp: '2023-04-06T12:06:17.457Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/get/642e70f7b6e6458f0b2147b8',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc4Mjc0NSwiZXhwIjoxNjgwNzg2MzQ1fQ.eHN6fDVotGvOxP_SiB2xDsPiQdLuaQsfrGOX-JyFM_8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'ce0a4d10-1b0c-408b-b996-124f7d067cfc',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/get/642e70f7b6e6458f0b2147b8',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 2635
+  },
+  level: 'info',
+  message: 'HTTP GET /role/get/642e70f7b6e6458f0b2147b8',
+  timestamp: '2023-04-06T12:06:33.267Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/get/642e70f7b6e6458f0b2147b8',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc4Mjc0NSwiZXhwIjoxNjgwNzg2MzQ1fQ.eHN6fDVotGvOxP_SiB2xDsPiQdLuaQsfrGOX-JyFM_8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '619f6c8c-054c-41fe-8cf2-6efe64a280d2',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/get/642e70f7b6e6458f0b2147b8',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 976
+  },
+  level: 'info',
+  message: 'HTTP GET /role/get/642e70f7b6e6458f0b2147b8',
+  timestamp: '2023-04-06T12:06:35.717Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/get/642e70f7b6e6458f0b2147b8',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc4Mjc0NSwiZXhwIjoxNjgwNzg2MzQ1fQ.eHN6fDVotGvOxP_SiB2xDsPiQdLuaQsfrGOX-JyFM_8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '285310fd-546b-46f3-b52a-211552d2f6de',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/get/642e70f7b6e6458f0b2147b8',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 721
+  },
+  level: 'info',
+  message: 'HTTP GET /role/get/642e70f7b6e6458f0b2147b8',
+  timestamp: '2023-04-06T12:06:38.484Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/get/642e70f7b6e6458f0b2147b8',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc4Mjc0NSwiZXhwIjoxNjgwNzg2MzQ1fQ.eHN6fDVotGvOxP_SiB2xDsPiQdLuaQsfrGOX-JyFM_8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '7da15ce3-90ff-4e88-a41c-45d3b87d6824',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/get/642e70f7b6e6458f0b2147b8',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 675
+  },
+  level: 'info',
+  message: 'HTTP GET /role/get/642e70f7b6e6458f0b2147b8',
+  timestamp: '2023-04-06T12:06:40.326Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/get/642e70f7b6e6458f0b2147b8',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc4Mjc0NSwiZXhwIjoxNjgwNzg2MzQ1fQ.eHN6fDVotGvOxP_SiB2xDsPiQdLuaQsfrGOX-JyFM_8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '177c85d6-f017-4e24-adda-bc096faf5da8',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/get/642e70f7b6e6458f0b2147b8',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1078
+  },
+  level: 'info',
+  message: 'HTTP GET /role/get/642e70f7b6e6458f0b2147b8',
+  timestamp: '2023-04-06T12:06:42.652Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/get/642e70f7b6e6458f0b2147b8',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc4Mjc0NSwiZXhwIjoxNjgwNzg2MzQ1fQ.eHN6fDVotGvOxP_SiB2xDsPiQdLuaQsfrGOX-JyFM_8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '293ad1e6-60ac-4571-ad28-dd17410fda81',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/get/642e70f7b6e6458f0b2147b8',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 672
+  },
+  level: 'info',
+  message: 'HTTP GET /role/get/642e70f7b6e6458f0b2147b8',
+  timestamp: '2023-04-06T12:06:52.000Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/get/642e70f7b6e6458f0b2147b8',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc4Mjc0NSwiZXhwIjoxNjgwNzg2MzQ1fQ.eHN6fDVotGvOxP_SiB2xDsPiQdLuaQsfrGOX-JyFM_8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '7ad977fa-a527-465b-a1ce-35ca1c18934e',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/get/642e70f7b6e6458f0b2147b8',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1358
+  },
+  level: 'info',
+  message: 'HTTP GET /role/get/642e70f7b6e6458f0b2147b8',
+  timestamp: '2023-04-06T12:06:54.869Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/get/642e70f7b6e6458f0b2147b8',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc4Mjc0NSwiZXhwIjoxNjgwNzg2MzQ1fQ.eHN6fDVotGvOxP_SiB2xDsPiQdLuaQsfrGOX-JyFM_8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '290983f5-af7f-4f1f-9f42-f6e83af095d4',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/get/642e70f7b6e6458f0b2147b8',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 705
+  },
+  level: 'info',
+  message: 'HTTP GET /role/get/642e70f7b6e6458f0b2147b8',
+  timestamp: '2023-04-06T12:06:57.120Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/get/642e70f7b6e6458f0b2147b8',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc4Mjc0NSwiZXhwIjoxNjgwNzg2MzQ1fQ.eHN6fDVotGvOxP_SiB2xDsPiQdLuaQsfrGOX-JyFM_8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '18ddd1e6-42a3-4fc1-b2fb-049da1c3337a',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/get/642e70f7b6e6458f0b2147b8',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 799
+  },
+  level: 'info',
+  message: 'HTTP GET /role/get/642e70f7b6e6458f0b2147b8',
+  timestamp: '2023-04-06T12:06:59.027Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/get/642e70f7b6e6458f0b2147b8',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc4Mjc0NSwiZXhwIjoxNjgwNzg2MzQ1fQ.eHN6fDVotGvOxP_SiB2xDsPiQdLuaQsfrGOX-JyFM_8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '0c2966fb-22ef-4025-b4a7-b7ead4132975',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/get/642e70f7b6e6458f0b2147b8',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1921
+  },
+  level: 'info',
+  message: 'HTTP GET /role/get/642e70f7b6e6458f0b2147b8',
+  timestamp: '2023-04-06T12:18:03.200Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/get/642e70f7b6e6458f0b2147b8',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc4Mjc0NSwiZXhwIjoxNjgwNzg2MzQ1fQ.eHN6fDVotGvOxP_SiB2xDsPiQdLuaQsfrGOX-JyFM_8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '56287449-e8ff-4c8a-ab05-3b1e856e5139',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/get/642e70f7b6e6458f0b2147b8',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 738
+  },
+  level: 'info',
+  message: 'HTTP GET /role/get/642e70f7b6e6458f0b2147b8',
+  timestamp: '2023-04-06T12:18:06.785Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/get/642e70f7b6e6458f0b2147b8',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc4Mjc0NSwiZXhwIjoxNjgwNzg2MzQ1fQ.eHN6fDVotGvOxP_SiB2xDsPiQdLuaQsfrGOX-JyFM_8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '7263877b-7994-4c00-8b1c-f5c86fe32d8b',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/get/642e70f7b6e6458f0b2147b8',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 965
+  },
+  level: 'info',
+  message: 'HTTP GET /role/get/642e70f7b6e6458f0b2147b8',
+  timestamp: '2023-04-06T12:18:08.730Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/get/642e70f7b6e6458f0b2147b8',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc4Mjc0NSwiZXhwIjoxNjgwNzg2MzQ1fQ.eHN6fDVotGvOxP_SiB2xDsPiQdLuaQsfrGOX-JyFM_8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '8f502b9d-7dd7-4ffc-b0a9-ee9d8b87765e',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/get/642e70f7b6e6458f0b2147b8',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1545
+  },
+  level: 'info',
+  message: 'HTTP GET /role/get/642e70f7b6e6458f0b2147b8',
+  timestamp: '2023-04-06T12:18:11.290Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/get/642e70f7b6e6458f0b2147b8',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc4Mjc0NSwiZXhwIjoxNjgwNzg2MzQ1fQ.eHN6fDVotGvOxP_SiB2xDsPiQdLuaQsfrGOX-JyFM_8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'f6b7063e-c0ee-4ee9-9324-baf28f990454',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/get/642e70f7b6e6458f0b2147b8',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 710
+  },
+  level: 'info',
+  message: 'HTTP GET /role/get/642e70f7b6e6458f0b2147b8',
+  timestamp: '2023-04-06T12:18:13.029Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/get/642e70f7b6e6458f0b2147b8',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc4Mjc0NSwiZXhwIjoxNjgwNzg2MzQ1fQ.eHN6fDVotGvOxP_SiB2xDsPiQdLuaQsfrGOX-JyFM_8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '2b30de96-6c1a-444d-ae89-4f0cb3bd4b51',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/get/642e70f7b6e6458f0b2147b8',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1333
+  },
+  level: 'info',
+  message: 'HTTP GET /role/get/642e70f7b6e6458f0b2147b8',
+  timestamp: '2023-04-06T12:18:15.798Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/get/642e70f7b6e6458f0b2147b8',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc4Mjc0NSwiZXhwIjoxNjgwNzg2MzQ1fQ.eHN6fDVotGvOxP_SiB2xDsPiQdLuaQsfrGOX-JyFM_8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'ea79b356-d18d-431b-9d0f-2b0a05cd3eb2',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/get/642e70f7b6e6458f0b2147b8',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 767
+  },
+  level: 'info',
+  message: 'HTTP GET /role/get/642e70f7b6e6458f0b2147b8',
+  timestamp: '2023-04-06T12:19:29.750Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/get/642e70f7b6e6458f0b2147b8',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc4Mjc0NSwiZXhwIjoxNjgwNzg2MzQ1fQ.eHN6fDVotGvOxP_SiB2xDsPiQdLuaQsfrGOX-JyFM_8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '7968924d-80e3-44cf-b857-ef66184d7fc8',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/get/642e70f7b6e6458f0b2147b8',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 747
+  },
+  level: 'info',
+  message: 'HTTP GET /role/get/642e70f7b6e6458f0b2147b8',
+  timestamp: '2023-04-06T12:19:31.479Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/get/642e70f7b6e6458f0b2147b',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc4Mjc0NSwiZXhwIjoxNjgwNzg2MzQ1fQ.eHN6fDVotGvOxP_SiB2xDsPiQdLuaQsfrGOX-JyFM_8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'e9868344-f027-4249-a2b1-8b338eff0744',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/get/642e70f7b6e6458f0b2147b',
+      query: {}
+    },
+    res: { statusCode: 422 },
+    responseTime: 745
+  },
+  level: 'warn',
+  message: 'HTTP GET /role/get/642e70f7b6e6458f0b2147b',
+  timestamp: '2023-04-06T12:20:04.054Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/get/642e70f7b6e6458f0b2147b8',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc4Mjc0NSwiZXhwIjoxNjgwNzg2MzQ1fQ.eHN6fDVotGvOxP_SiB2xDsPiQdLuaQsfrGOX-JyFM_8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'ffdaee31-61b4-44d3-bebe-cb189e7d1ac0',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/get/642e70f7b6e6458f0b2147b8',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 726
+  },
+  level: 'info',
+  message: 'HTTP GET /role/get/642e70f7b6e6458f0b2147b8',
+  timestamp: '2023-04-06T12:20:08.444Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/get/642e70f7b6e6458f0b2147b8',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc4Mjc0NSwiZXhwIjoxNjgwNzg2MzQ1fQ.eHN6fDVotGvOxP_SiB2xDsPiQdLuaQsfrGOX-JyFM_8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'e665b4c5-42b5-4aec-8459-354a18ee3e80',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/get/642e70f7b6e6458f0b2147b8',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 2158
+  },
+  level: 'info',
+  message: 'HTTP GET /role/get/642e70f7b6e6458f0b2147b8',
+  timestamp: '2023-04-06T12:23:52.691Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/get/642e70f7b6e6458f0b2147b8',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc4Mjc0NSwiZXhwIjoxNjgwNzg2MzQ1fQ.eHN6fDVotGvOxP_SiB2xDsPiQdLuaQsfrGOX-JyFM_8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '93520d54-7906-4909-a515-56affc6bf589',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/get/642e70f7b6e6458f0b2147b8',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 2031
+  },
+  level: 'info',
+  message: 'HTTP GET /role/get/642e70f7b6e6458f0b2147b8',
+  timestamp: '2023-04-06T12:23:57.289Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/get/642e70f7b6e6458f0b2147b8',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc4Mjc0NSwiZXhwIjoxNjgwNzg2MzQ1fQ.eHN6fDVotGvOxP_SiB2xDsPiQdLuaQsfrGOX-JyFM_8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'fec985d1-24a3-47e6-8c41-94934ef4edb3',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/get/642e70f7b6e6458f0b2147b8',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 2010
+  },
+  level: 'info',
+  message: 'HTTP GET /role/get/642e70f7b6e6458f0b2147b8',
+  timestamp: '2023-04-06T12:24:00.358Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/get/642e70f7b6e6458f0b2147b8',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc4Mjc0NSwiZXhwIjoxNjgwNzg2MzQ1fQ.eHN6fDVotGvOxP_SiB2xDsPiQdLuaQsfrGOX-JyFM_8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '32c880d6-38cf-45e5-af23-8cae94a34bdf',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/get/642e70f7b6e6458f0b2147b8',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 2761
+  },
+  level: 'info',
+  message: 'HTTP GET /role/get/642e70f7b6e6458f0b2147b8',
+  timestamp: '2023-04-06T12:24:04.352Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/get/642e70f7b6e6458f0b2147b8',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc4Mjc0NSwiZXhwIjoxNjgwNzg2MzQ1fQ.eHN6fDVotGvOxP_SiB2xDsPiQdLuaQsfrGOX-JyFM_8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'e20fbce9-2e26-48d1-89f4-5cd672c3c6d1',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/get/642e70f7b6e6458f0b2147b8',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 2625
+  },
+  level: 'info',
+  message: 'HTTP GET /role/get/642e70f7b6e6458f0b2147b8',
+  timestamp: '2023-04-06T12:24:46.891Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/get/642e70f7b6e6458f0b2147b8',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc4Mjc0NSwiZXhwIjoxNjgwNzg2MzQ1fQ.eHN6fDVotGvOxP_SiB2xDsPiQdLuaQsfrGOX-JyFM_8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '84d15246-43c4-4639-9a32-4ec5267d539b',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/get/642e70f7b6e6458f0b2147b8',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 2493
+  },
+  level: 'info',
+  message: 'HTTP GET /role/get/642e70f7b6e6458f0b2147b8',
+  timestamp: '2023-04-06T12:24:50.869Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/get/642e70f7b6e6458f0b2147b8',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc4Mjc0NSwiZXhwIjoxNjgwNzg2MzQ1fQ.eHN6fDVotGvOxP_SiB2xDsPiQdLuaQsfrGOX-JyFM_8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '0a4eb3bc-170f-448d-bdd4-f87d6a0762ca',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/get/642e70f7b6e6458f0b2147b8',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 2024
+  },
+  level: 'info',
+  message: 'HTTP GET /role/get/642e70f7b6e6458f0b2147b8',
+  timestamp: '2023-04-06T12:24:55.245Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/get/642e70f7b6e6458f0b2147b8',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc4Mjc0NSwiZXhwIjoxNjgwNzg2MzQ1fQ.eHN6fDVotGvOxP_SiB2xDsPiQdLuaQsfrGOX-JyFM_8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'f9852d3c-6dc9-4e02-ba5f-a18d714eea78',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/get/642e70f7b6e6458f0b2147b8',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 2147
+  },
+  level: 'info',
+  message: 'HTTP GET /role/get/642e70f7b6e6458f0b2147b8',
+  timestamp: '2023-04-06T12:24:58.623Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/get/642e70f7b6e6458f0b2147b8',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc4Mjc0NSwiZXhwIjoxNjgwNzg2MzQ1fQ.eHN6fDVotGvOxP_SiB2xDsPiQdLuaQsfrGOX-JyFM_8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '75ec9b4a-da12-467c-838f-0e10599771cd',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/get/642e70f7b6e6458f0b2147b8',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 2179
+  },
+  level: 'info',
+  message: 'HTTP GET /role/get/642e70f7b6e6458f0b2147b8',
+  timestamp: '2023-04-06T12:25:02.105Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/get/642e70f7b6e6458f0b2147b8',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc4Mjc0NSwiZXhwIjoxNjgwNzg2MzQ1fQ.eHN6fDVotGvOxP_SiB2xDsPiQdLuaQsfrGOX-JyFM_8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '3b8244f0-ebb8-4a1a-a520-24dea732c492',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/get/642e70f7b6e6458f0b2147b8',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1724
+  },
+  level: 'info',
+  message: 'HTTP GET /role/get/642e70f7b6e6458f0b2147b8',
+  timestamp: '2023-04-06T12:25:05.987Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/get/642e70f7b6e6458f0b2147b8',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc4Mjc0NSwiZXhwIjoxNjgwNzg2MzQ1fQ.eHN6fDVotGvOxP_SiB2xDsPiQdLuaQsfrGOX-JyFM_8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'bf921d32-76db-451e-9067-bf75bf9a94f8',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/get/642e70f7b6e6458f0b2147b8',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 2545
+  },
+  level: 'info',
+  message: 'HTTP GET /role/get/642e70f7b6e6458f0b2147b8',
+  timestamp: '2023-04-06T12:25:16.236Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/get/642e70f7b6e6458f0b2147b8',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc4Mjc0NSwiZXhwIjoxNjgwNzg2MzQ1fQ.eHN6fDVotGvOxP_SiB2xDsPiQdLuaQsfrGOX-JyFM_8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '88518ffb-ec2b-4507-b7db-56f88880a3af',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/get/642e70f7b6e6458f0b2147b8',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 752
+  },
+  level: 'info',
+  message: 'HTTP GET /role/get/642e70f7b6e6458f0b2147b8',
+  timestamp: '2023-04-06T12:25:38.678Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/get/642e70f7b6e6458f0b2147b8',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc4Mjc0NSwiZXhwIjoxNjgwNzg2MzQ1fQ.eHN6fDVotGvOxP_SiB2xDsPiQdLuaQsfrGOX-JyFM_8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '50557fe6-4916-42d0-a8c0-9bec17f54024',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/get/642e70f7b6e6458f0b2147b8',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 696
+  },
+  level: 'info',
+  message: 'HTTP GET /role/get/642e70f7b6e6458f0b2147b8',
+  timestamp: '2023-04-06T12:25:40.403Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/get/642e70f7b6e6458f0b2147b8',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc4Mjc0NSwiZXhwIjoxNjgwNzg2MzQ1fQ.eHN6fDVotGvOxP_SiB2xDsPiQdLuaQsfrGOX-JyFM_8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '14acf758-189a-4455-9df9-b6f2ff635dd1',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/get/642e70f7b6e6458f0b2147b8',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 734
+  },
+  level: 'info',
+  message: 'HTTP GET /role/get/642e70f7b6e6458f0b2147b8',
+  timestamp: '2023-04-06T12:25:41.939Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/get/642e70f7b6e6458f0b2147b',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc4Mjc0NSwiZXhwIjoxNjgwNzg2MzQ1fQ.eHN6fDVotGvOxP_SiB2xDsPiQdLuaQsfrGOX-JyFM_8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'dec43eb1-e6a2-470c-b223-f8e7ee74080b',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/get/642e70f7b6e6458f0b2147b',
+      query: {}
+    },
+    res: { statusCode: 422 },
+    responseTime: 699
+  },
+  level: 'warn',
+  message: 'HTTP GET /role/get/642e70f7b6e6458f0b2147b',
+  timestamp: '2023-04-06T12:27:26.890Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/store',
+      headers: {
+        'content-type': 'application/x-www-form-urlencoded',
+        accept: 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc4Mjc0NSwiZXhwIjoxNjgwNzg2MzQ1fQ.eHN6fDVotGvOxP_SiB2xDsPiQdLuaQsfrGOX-JyFM_8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '65c59372-cb58-431b-8cf2-fe1440e5bc19',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '37'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/role/store',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1501
+  },
+  level: 'info',
+  message: 'HTTP POST /role/store',
+  timestamp: '2023-04-06T12:27:51.854Z'
+}
+{
+  meta: {
+    req: {
+      url: '/login',
+      headers: {
+        accept: 'application/json',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'd279ee3f-0696-4c3d-88fd-76203dcfa266',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-type': 'application/x-www-form-urlencoded',
+        'content-length': '49'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/login',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 796
+  },
+  level: 'info',
+  message: 'HTTP POST /login',
+  timestamp: '2023-04-06T12:30:26.534Z'
+}
+{
+  meta: {
+    req: {
+      url: '/login',
+      headers: {
+        accept: 'application/json',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '8bccb6f9-21e1-4c4b-a59a-970ecd55f1ef',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-type': 'application/x-www-form-urlencoded',
+        'content-length': '49'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/login',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 3478
+  },
+  level: 'info',
+  message: 'HTTP POST /login',
+  timestamp: '2023-04-06T12:31:02.892Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/store',
+      headers: {
+        'content-type': 'application/x-www-form-urlencoded',
+        accept: 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmU3MGY5YjZlNjQ1OGYwYjIxNDdiYyIsImlhdCI6MTY4MDc4Mjc0NSwiZXhwIjoxNjgwNzg2MzQ1fQ.eHN6fDVotGvOxP_SiB2xDsPiQdLuaQsfrGOX-JyFM_8',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'b0ba3840-2604-4bcd-a50c-d93de455c918',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '40'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/role/store',
+      query: {}
+    },
+    res: { statusCode: 401 },
+    responseTime: 4
+  },
+  level: 'warn',
+  message: 'HTTP POST /role/store',
+  timestamp: '2023-04-07T08:00:50.403Z'
+}
+{
+  meta: {
+    req: {
+      url: '/login',
+      headers: {
+        accept: 'application/json',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'cea81d43-76a0-45f8-9e43-c1bf0bb03bee',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-type': 'application/x-www-form-urlencoded',
+        'content-length': '49'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/login',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1274
+  },
+  level: 'info',
+  message: 'HTTP POST /login',
+  timestamp: '2023-04-07T08:00:56.763Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/store',
+      headers: {
+        'content-type': 'application/x-www-form-urlencoded',
+        accept: 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmZjZDUyYWI4MGZmNzA2MzA0Yjg0ZiIsImlhdCI6MTY4MDg1NDQ1NiwiZXhwIjoxNjgwODU4MDU2fQ.Azx95nNd2OyzBdeQEGOOHbgXf_3Lr7KnYrtAHccw2Qk',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'feab9c9d-9229-4cc1-8a10-c9d2cd6497ba',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '40'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/role/store',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1731
+  },
+  level: 'info',
+  message: 'HTTP POST /role/store',
+  timestamp: '2023-04-07T08:01:14.298Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/all',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmZjZDUyYWI4MGZmNzA2MzA0Yjg0ZiIsImlhdCI6MTY4MDg1NDQ1NiwiZXhwIjoxNjgwODU4MDU2fQ.Azx95nNd2OyzBdeQEGOOHbgXf_3Lr7KnYrtAHccw2Qk',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'ef7e587e-f8fc-451d-afbd-7c14d30b72c8',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/all',
+      query: {}
+    },
+    res: { statusCode: 404 },
+    responseTime: 668
+  },
+  level: 'warn',
+  message: 'HTTP GET /role/all',
+  timestamp: '2023-04-07T08:04:59.609Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/all',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmZjZDUyYWI4MGZmNzA2MzA0Yjg0ZiIsImlhdCI6MTY4MDg1NDQ1NiwiZXhwIjoxNjgwODU4MDU2fQ.Azx95nNd2OyzBdeQEGOOHbgXf_3Lr7KnYrtAHccw2Qk',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '9ba998cb-5381-445f-92c6-60d48ac6b876',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/all',
+      query: {}
+    },
+    res: { statusCode: 404 },
+    responseTime: 2633
+  },
+  level: 'warn',
+  message: 'HTTP GET /role/all',
+  timestamp: '2023-04-07T08:07:50.403Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/all',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmZjZDUyYWI4MGZmNzA2MzA0Yjg0ZiIsImlhdCI6MTY4MDg1NDQ1NiwiZXhwIjoxNjgwODU4MDU2fQ.Azx95nNd2OyzBdeQEGOOHbgXf_3Lr7KnYrtAHccw2Qk',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '0a22b45f-7c2a-427d-857f-786f4ac0e5ff',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/all',
+      query: {}
+    },
+    res: { statusCode: 404 },
+    responseTime: 859
+  },
+  level: 'warn',
+  message: 'HTTP GET /role/all',
+  timestamp: '2023-04-07T08:07:54.278Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/all',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmZjZDUyYWI4MGZmNzA2MzA0Yjg0ZiIsImlhdCI6MTY4MDg1NDQ1NiwiZXhwIjoxNjgwODU4MDU2fQ.Azx95nNd2OyzBdeQEGOOHbgXf_3Lr7KnYrtAHccw2Qk',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '07fc2bce-6185-4988-bff2-af3a1e75a1d8',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/all',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 3449
+  },
+  level: 'info',
+  message: 'HTTP GET /role/all',
+  timestamp: '2023-04-07T08:08:23.975Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/all',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmZjZDUyYWI4MGZmNzA2MzA0Yjg0ZiIsImlhdCI6MTY4MDg1NDQ1NiwiZXhwIjoxNjgwODU4MDU2fQ.Azx95nNd2OyzBdeQEGOOHbgXf_3Lr7KnYrtAHccw2Qk',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '769973a2-bf29-4bbc-bcde-5223b9c93a4a',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/all',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1464
+  },
+  level: 'info',
+  message: 'HTTP GET /role/all',
+  timestamp: '2023-04-07T08:10:16.205Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/all',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmZjZDUyYWI4MGZmNzA2MzA0Yjg0ZiIsImlhdCI6MTY4MDg1NDQ1NiwiZXhwIjoxNjgwODU4MDU2fQ.Azx95nNd2OyzBdeQEGOOHbgXf_3Lr7KnYrtAHccw2Qk',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'f1c35477-db8d-4439-9347-7f402798fd24',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/all',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1529
+  },
+  level: 'info',
+  message: 'HTTP GET /role/all',
+  timestamp: '2023-04-07T08:11:00.411Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/store',
+      headers: {
+        'content-type': 'application/x-www-form-urlencoded',
+        accept: 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmZjZDUyYWI4MGZmNzA2MzA0Yjg0ZiIsImlhdCI6MTY4MDg1NDQ1NiwiZXhwIjoxNjgwODU4MDU2fQ.Azx95nNd2OyzBdeQEGOOHbgXf_3Lr7KnYrtAHccw2Qk',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'cf78dd77-8c29-4355-bfb9-09a25f3bcd89',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '39'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/role/store',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1574
+  },
+  level: 'info',
+  message: 'HTTP POST /role/store',
+  timestamp: '2023-04-07T08:12:56.360Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/all',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmZjZDUyYWI4MGZmNzA2MzA0Yjg0ZiIsImlhdCI6MTY4MDg1NDQ1NiwiZXhwIjoxNjgwODU4MDU2fQ.Azx95nNd2OyzBdeQEGOOHbgXf_3Lr7KnYrtAHccw2Qk',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'e5c75242-1ea4-47fc-b3eb-fc760f35bb8c',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/all',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 684
+  },
+  level: 'info',
+  message: 'HTTP GET /role/all',
+  timestamp: '2023-04-07T08:14:33.664Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/all',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmZjZDUyYWI4MGZmNzA2MzA0Yjg0ZiIsImlhdCI6MTY4MDg1NDQ1NiwiZXhwIjoxNjgwODU4MDU2fQ.Azx95nNd2OyzBdeQEGOOHbgXf_3Lr7KnYrtAHccw2Qk',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '711941b4-f548-4af8-bb6d-95ad621dbfda',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/all',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 770
+  },
+  level: 'info',
+  message: 'HTTP GET /role/all',
+  timestamp: '2023-04-07T08:18:37.978Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/all',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmZjZDUyYWI4MGZmNzA2MzA0Yjg0ZiIsImlhdCI6MTY4MDg1NDQ1NiwiZXhwIjoxNjgwODU4MDU2fQ.Azx95nNd2OyzBdeQEGOOHbgXf_3Lr7KnYrtAHccw2Qk',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '1ee50107-890d-4220-a08d-a401ee75af92',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/all',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1116
+  },
+  level: 'info',
+  message: 'HTTP GET /role/all',
+  timestamp: '2023-04-07T08:25:05.975Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/all',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmZjZDUyYWI4MGZmNzA2MzA0Yjg0ZiIsImlhdCI6MTY4MDg1NDQ1NiwiZXhwIjoxNjgwODU4MDU2fQ.Azx95nNd2OyzBdeQEGOOHbgXf_3Lr7KnYrtAHccw2Qk',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '82c1e5f8-e51c-4315-82cf-60ba067f405e',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/all',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1248
+  },
+  level: 'info',
+  message: 'HTTP GET /role/all',
+  timestamp: '2023-04-07T08:25:23.730Z'
+}
+{
+  meta: {
+    req: {
+      url: '/login',
+      headers: {
+        accept: 'application/json',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '6b036583-6420-4a4c-b95d-6c0de0852150',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-type': 'application/x-www-form-urlencoded',
+        'content-length': '49'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/login',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 859
+  },
+  level: 'info',
+  message: 'HTTP POST /login',
+  timestamp: '2023-04-07T10:51:44.797Z'
+}
+{
+  meta: {
+    req: {
+      url: '/admin/refreshToken',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/x-www-form-urlencoded',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'd54c326f-c1f8-483d-a47e-a20549c0dd79',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '184'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/admin/refreshToken',
+      query: {}
+    },
+    res: { statusCode: 401 },
+    responseTime: 0
+  },
+  level: 'warn',
+  message: 'HTTP POST /admin/refreshToken',
+  timestamp: '2023-04-07T10:51:55.040Z'
+}
+{
+  meta: {
+    req: {
+      url: '/admin/refreshToken',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/x-www-form-urlencoded',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'b950880d-16ef-4f5b-8583-c1731b951663',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '193'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/admin/refreshToken',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 8
+  },
+  level: 'info',
+  message: 'HTTP POST /admin/refreshToken',
+  timestamp: '2023-04-07T10:52:10.426Z'
+}
+{
+  meta: {
+    req: {
+      url: '/admin/refreshToken',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/x-www-form-urlencoded',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '881af3fd-041a-4608-98d8-4d2c20fa5e51',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '193'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/admin/refreshToken',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 6
+  },
+  level: 'info',
+  message: 'HTTP POST /admin/refreshToken',
+  timestamp: '2023-04-07T10:52:52.537Z'
+}
+{
+  meta: {
+    req: {
+      url: '/admin/logout',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmZjZDUyYWI4MGZmNzA2MzA0Yjg0ZiIsImlhdCI6MTY4MDg1NDQ1NiwiZXhwIjoxNjgwODU4MDU2fQ.Azx95nNd2OyzBdeQEGOOHbgXf_3Lr7KnYrtAHccw2Qk',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '81f75eda-d939-4c39-b883-7ced0b16f0f9',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '0'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/admin/logout',
+      query: {}
+    },
+    res: { statusCode: 401 },
+    responseTime: 3
+  },
+  level: 'warn',
+  message: 'HTTP POST /admin/logout',
+  timestamp: '2023-04-07T10:53:46.617Z'
+}
+{
+  meta: {
+    req: {
+      url: '/admin/logout',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmZjZDUyYWI4MGZmNzA2MzA0Yjg0ZiIsImlhdCI6MTY4MDg1NDQ1NiwiZXhwIjoxNjgwODU4MDU2fQ.Azx95nNd2OyzBdeQEGOOHbgXf_3Lr7KnYrtAHccw2Qk',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '0bd54b88-0d88-4a76-9785-afe52e977901',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '0'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/admin/logout',
+      query: {}
+    },
+    res: { statusCode: 401 },
+    responseTime: 2
+  },
+  level: 'warn',
+  message: 'HTTP POST /admin/logout',
+  timestamp: '2023-04-07T10:53:57.646Z'
+}
+{
+  meta: {
+    req: {
+      url: '/login',
+      headers: {
+        accept: 'application/json',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'e1750a00-d718-453c-897f-b0558f8e6de3',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-type': 'application/x-www-form-urlencoded',
+        'content-length': '49'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/login',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 826
+  },
+  level: 'info',
+  message: 'HTTP POST /login',
+  timestamp: '2023-04-07T10:54:02.229Z'
+}
+{
+  meta: {
+    req: {
+      url: '/admin/logout',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmZjZDUyYWI4MGZmNzA2MzA0Yjg0ZiIsImlhdCI6MTY4MDg2NDg0MiwiZXhwIjoxNjgwODY4NDQyfQ.pJoUO30d42OerVWIfJDYg7nyP97OxbloeVpVzkNqpfE',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'f9a55a88-44b3-4cea-bb3b-050d8cfb6f00',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '0'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/admin/logout',
+      query: {}
+    },
+    res: { statusCode: 404 },
+    responseTime: 743
+  },
+  level: 'warn',
+  message: 'HTTP POST /admin/logout',
+  timestamp: '2023-04-07T10:54:18.157Z'
+}
+{
+  meta: {
+    req: {
+      url: '/login',
+      headers: {
+        accept: 'application/json',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '2d65ee30-991b-4c43-84be-37ef5fd57c7a',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-type': 'application/x-www-form-urlencoded',
+        'content-length': '49'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/login',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 3122
+  },
+  level: 'info',
+  message: 'HTTP POST /login',
+  timestamp: '2023-04-07T12:07:39.848Z'
+}
+{
+  meta: {
+    req: {
+      url: '/login',
+      headers: {
+        accept: 'application/json',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'dfd0864a-f8eb-4b37-9a50-d6bfc30f6350',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-type': 'application/x-www-form-urlencoded',
+        'content-length': '49'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/login',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1095
+  },
+  level: 'info',
+  message: 'HTTP POST /login',
+  timestamp: '2023-04-07T12:10:09.967Z'
+}
+{
+  meta: {
+    req: {
+      url: '/login',
+      headers: {
+        accept: 'application/json',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'c186f06b-aef6-4cfa-af67-09060ed67486',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-type': 'application/x-www-form-urlencoded',
+        'content-length': '49'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/login',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1333
+  },
+  level: 'info',
+  message: 'HTTP POST /login',
+  timestamp: '2023-04-07T12:24:24.581Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/store',
+      headers: {
+        'content-type': 'application/x-www-form-urlencoded',
+        accept: 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmZjZDUyYWI4MGZmNzA2MzA0Yjg0ZiIsImlhdCI6MTY4MDg3MDI2NCwiZXhwIjoxNjgwODczODY0fQ.Rrn26zi5dALci8hpRp3hlgXsgeVtqp14_jGt0fzV4gw',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'd920c914-d654-4941-98a1-a152f537b3d3',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '42'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/role/store',
+      query: {}
+    },
+    res: { statusCode: 401 },
+    responseTime: 7
+  },
+  level: 'warn',
+  message: 'HTTP POST /role/store',
+  timestamp: '2023-04-07T12:26:00.366Z'
+}
+{
+  meta: {
+    req: {
+      url: '/login',
+      headers: {
+        accept: 'application/json',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '3d37af27-6e17-4408-9d88-fc32d611ff60',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-type': 'application/x-www-form-urlencoded',
+        'content-length': '49'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/login',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 924
+  },
+  level: 'info',
+  message: 'HTTP POST /login',
+  timestamp: '2023-04-07T12:26:06.580Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/store',
+      headers: {
+        'content-type': 'application/x-www-form-urlencoded',
+        accept: 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmZjZDUyYWI4MGZmNzA2MzA0Yjg0ZiIsImlhdCI6MTY4MDg3MDM2NiwiZXhwIjoxNjgwODczOTY2fQ.i_8wVuoeIOmPRAl2b770-gJRq4YYplMxa0cThQlvkIo',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '1443eff9-5fd5-4fbc-8938-83c7c6d5d9e7',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '42'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/role/store',
+      query: {}
+    },
+    res: { statusCode: 401 },
+    responseTime: 1
+  },
+  level: 'warn',
+  message: 'HTTP POST /role/store',
+  timestamp: '2023-04-07T12:26:21.306Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/store',
+      headers: {
+        'content-type': 'application/x-www-form-urlencoded',
+        accept: 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmZjZDUyYWI4MGZmNzA2MzA0Yjg0ZiIsImlhdCI6MTY4MDg3MDM2NiwiZXhwIjoxNjgwODczOTY2fQ.i_8wVuoeIOmPRAl2b770-gJRq4YYplMxa0cThQlvkIo',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '11ad53f1-01bd-4e3a-88cd-564fbce03ecf',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '42'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/role/store',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 3750
+  },
+  level: 'info',
+  message: 'HTTP POST /role/store',
+  timestamp: '2023-04-07T12:26:57.694Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/store',
+      headers: {
+        'content-type': 'application/x-www-form-urlencoded',
+        accept: 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmZjZDUyYWI4MGZmNzA2MzA0Yjg0ZiIsImlhdCI6MTY4MDg3MDM2NiwiZXhwIjoxNjgwODczOTY2fQ.i_8wVuoeIOmPRAl2b770-gJRq4YYplMxa0cThQlvkIo',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'a6331d3c-1bc7-4448-8e1f-be48ed2f0644',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '45'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/role/store',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1551
+  },
+  level: 'info',
+  message: 'HTTP POST /role/store',
+  timestamp: '2023-04-07T12:28:51.677Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/store',
+      headers: {
+        'content-type': 'application/x-www-form-urlencoded',
+        accept: 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmZjZDUyYWI4MGZmNzA2MzA0Yjg0ZiIsImlhdCI6MTY4MDg3MDM2NiwiZXhwIjoxNjgwODczOTY2fQ.i_8wVuoeIOmPRAl2b770-gJRq4YYplMxa0cThQlvkIo',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '98483c16-a0e1-4e6c-81f8-31eaa4718ee3',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '45'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/role/store',
+      query: {}
+    },
+    res: { statusCode: 422 },
+    responseTime: 1486
+  },
+  level: 'warn',
+  message: 'HTTP POST /role/store',
+  timestamp: '2023-04-07T12:29:57.932Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/store',
+      headers: {
+        'content-type': 'application/x-www-form-urlencoded',
+        accept: 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmZjZDUyYWI4MGZmNzA2MzA0Yjg0ZiIsImlhdCI6MTY4MDg3MDM2NiwiZXhwIjoxNjgwODczOTY2fQ.i_8wVuoeIOmPRAl2b770-gJRq4YYplMxa0cThQlvkIo',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '4b7c12e2-4179-44f1-9cdb-df3d807cb1a3',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '46'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/role/store',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1604
+  },
+  level: 'info',
+  message: 'HTTP POST /role/store',
+  timestamp: '2023-04-07T12:30:04.987Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/store',
+      headers: {
+        'content-type': 'application/x-www-form-urlencoded',
+        accept: 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmZjZDUyYWI4MGZmNzA2MzA0Yjg0ZiIsImlhdCI6MTY4MDg3MDM2NiwiZXhwIjoxNjgwODczOTY2fQ.i_8wVuoeIOmPRAl2b770-gJRq4YYplMxa0cThQlvkIo',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'ffe1c0fa-de83-48a3-9b3f-9a4c621f970d',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '46'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/role/store',
+      query: {}
+    },
+    res: { statusCode: 422 },
+    responseTime: 1236
+  },
+  level: 'warn',
+  message: 'HTTP POST /role/store',
+  timestamp: '2023-04-07T12:31:56.817Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/store',
+      headers: {
+        'content-type': 'application/x-www-form-urlencoded',
+        accept: 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmZjZDUyYWI4MGZmNzA2MzA0Yjg0ZiIsImlhdCI6MTY4MDg3MDM2NiwiZXhwIjoxNjgwODczOTY2fQ.i_8wVuoeIOmPRAl2b770-gJRq4YYplMxa0cThQlvkIo',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '59c026d9-7518-4df5-adf2-072e9c76d5a0',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '48'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/role/store',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1374
+  },
+  level: 'info',
+  message: 'HTTP POST /role/store',
+  timestamp: '2023-04-07T12:32:02.994Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/store',
+      headers: {
+        'content-type': 'application/x-www-form-urlencoded',
+        accept: 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmZjZDUyYWI4MGZmNzA2MzA0Yjg0ZiIsImlhdCI6MTY4MDg3MDM2NiwiZXhwIjoxNjgwODczOTY2fQ.i_8wVuoeIOmPRAl2b770-gJRq4YYplMxa0cThQlvkIo',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '86fc9ebe-f14d-41ed-ad7e-82fa5b97d4df',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '50'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/role/store',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 2651
+  },
+  level: 'info',
+  message: 'HTTP POST /role/store',
+  timestamp: '2023-04-07T12:32:41.869Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/all',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmZjZDUyYWI4MGZmNzA2MzA0Yjg0ZiIsImlhdCI6MTY4MDg3MDM2NiwiZXhwIjoxNjgwODczOTY2fQ.i_8wVuoeIOmPRAl2b770-gJRq4YYplMxa0cThQlvkIo',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'ccd5519e-d161-4a46-8fae-94c61e38bc11',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/all',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1524
+  },
+  level: 'info',
+  message: 'HTTP GET /role/all',
+  timestamp: '2023-04-07T12:32:49.029Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/all',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmZjZDUyYWI4MGZmNzA2MzA0Yjg0ZiIsImlhdCI6MTY4MDg3MDM2NiwiZXhwIjoxNjgwODczOTY2fQ.i_8wVuoeIOmPRAl2b770-gJRq4YYplMxa0cThQlvkIo',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '5c2c7e78-a8d8-4cca-8260-b0626036855b',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/all',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1568
+  },
+  level: 'info',
+  message: 'HTTP GET /role/all',
+  timestamp: '2023-04-07T12:33:32.146Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/store',
+      headers: {
+        'content-type': 'application/x-www-form-urlencoded',
+        accept: 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmZjZDUyYWI4MGZmNzA2MzA0Yjg0ZiIsImlhdCI6MTY4MDg3MDM2NiwiZXhwIjoxNjgwODczOTY2fQ.i_8wVuoeIOmPRAl2b770-gJRq4YYplMxa0cThQlvkIo',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'a1451c75-d558-4910-8e80-4606dc365038',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '50'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/role/store',
+      query: {}
+    },
+    res: { statusCode: 422 },
+    responseTime: 1318
+  },
+  level: 'warn',
+  message: 'HTTP POST /role/store',
+  timestamp: '2023-04-07T12:37:22.950Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/store',
+      headers: {
+        'content-type': 'application/x-www-form-urlencoded',
+        accept: 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmZjZDUyYWI4MGZmNzA2MzA0Yjg0ZiIsImlhdCI6MTY4MDg3MDM2NiwiZXhwIjoxNjgwODczOTY2fQ.i_8wVuoeIOmPRAl2b770-gJRq4YYplMxa0cThQlvkIo',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '459d600f-1eb7-48fc-9e7c-69a742def069',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '53'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/role/store',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1776
+  },
+  level: 'info',
+  message: 'HTTP POST /role/store',
+  timestamp: '2023-04-07T12:37:28.676Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/get/642e70f7b6e6458f0b2147b8',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmZjZDUyYWI4MGZmNzA2MzA0Yjg0ZiIsImlhdCI6MTY4MDg3MDM2NiwiZXhwIjoxNjgwODczOTY2fQ.i_8wVuoeIOmPRAl2b770-gJRq4YYplMxa0cThQlvkIo',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '2cc35d95-1d33-4412-9dff-9a6b9b68d0a5',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/get/642e70f7b6e6458f0b2147b8',
+      query: {}
+    },
+    res: { statusCode: 422 },
+    responseTime: 1280
+  },
+  level: 'warn',
+  message: 'HTTP GET /role/get/642e70f7b6e6458f0b2147b8',
+  timestamp: '2023-04-07T12:38:43.129Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/get/64300e887262c57265be5267',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmZjZDUyYWI4MGZmNzA2MzA0Yjg0ZiIsImlhdCI6MTY4MDg3MDM2NiwiZXhwIjoxNjgwODczOTY2fQ.i_8wVuoeIOmPRAl2b770-gJRq4YYplMxa0cThQlvkIo',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'faf20548-6c48-4dc9-a4e4-7f4a9487653b',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/get/64300e887262c57265be5267',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1992
+  },
+  level: 'info',
+  message: 'HTTP GET /role/get/64300e887262c57265be5267',
+  timestamp: '2023-04-07T12:38:55.412Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/get/64300e887262c57265be5267',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmZjZDUyYWI4MGZmNzA2MzA0Yjg0ZiIsImlhdCI6MTY4MDg3MDM2NiwiZXhwIjoxNjgwODczOTY2fQ.i_8wVuoeIOmPRAl2b770-gJRq4YYplMxa0cThQlvkIo',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'c2612e5d-468f-415d-bb33-c4c32da4a7ec',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/get/64300e887262c57265be5267',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 4440
+  },
+  level: 'info',
+  message: 'HTTP GET /role/get/64300e887262c57265be5267',
+  timestamp: '2023-04-07T12:39:20.915Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/all',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmZjZDUyYWI4MGZmNzA2MzA0Yjg0ZiIsImlhdCI6MTY4MDg3MDM2NiwiZXhwIjoxNjgwODczOTY2fQ.i_8wVuoeIOmPRAl2b770-gJRq4YYplMxa0cThQlvkIo',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'b0b01e38-faab-4129-ab97-c4189f4b5808',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/all',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1774
+  },
+  level: 'info',
+  message: 'HTTP GET /role/all',
+  timestamp: '2023-04-07T12:39:38.525Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/delete',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmZjZDUyYWI4MGZmNzA2MzA0Yjg0ZiIsImlhdCI6MTY4MDg3MDM2NiwiZXhwIjoxNjgwODczOTY2fQ.i_8wVuoeIOmPRAl2b770-gJRq4YYplMxa0cThQlvkIo',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'f030d3ce-feb1-4c7e-bfff-cee4a22773c6',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'DELETE',
+      httpVersion: '1.1',
+      originalUrl: '/role/delete',
+      query: {}
+    },
+    res: { statusCode: 404 },
+    responseTime: 1358
+  },
+  level: 'warn',
+  message: 'HTTP DELETE /role/delete',
+  timestamp: '2023-04-07T12:40:37.069Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/delete?id=64300e887262c57265be5267',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmZjZDUyYWI4MGZmNzA2MzA0Yjg0ZiIsImlhdCI6MTY4MDg3MDM2NiwiZXhwIjoxNjgwODczOTY2fQ.i_8wVuoeIOmPRAl2b770-gJRq4YYplMxa0cThQlvkIo',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '3e8d35f6-3730-4ead-b63c-72f59cce6920',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'DELETE',
+      httpVersion: '1.1',
+      originalUrl: '/role/delete?id=64300e887262c57265be5267',
+      query: { id: '64300e887262c57265be5267' }
+    },
+    res: { statusCode: 404 },
+    responseTime: 737
+  },
+  level: 'warn',
+  message: 'HTTP DELETE /role/delete?id=64300e887262c57265be5267',
+  timestamp: '2023-04-07T12:43:26.915Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/delete?id=64300e887262c57265be5267',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmZjZDUyYWI4MGZmNzA2MzA0Yjg0ZiIsImlhdCI6MTY4MDg3MDM2NiwiZXhwIjoxNjgwODczOTY2fQ.i_8wVuoeIOmPRAl2b770-gJRq4YYplMxa0cThQlvkIo',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'dba9e6cf-e194-4b4a-b471-19b1a3c32ebe',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'DELETE',
+      httpVersion: '1.1',
+      originalUrl: '/role/delete?id=64300e887262c57265be5267',
+      query: { id: '64300e887262c57265be5267' }
+    },
+    res: { statusCode: 404 },
+    responseTime: 904
+  },
+  level: 'warn',
+  message: 'HTTP DELETE /role/delete?id=64300e887262c57265be5267',
+  timestamp: '2023-04-07T12:47:28.271Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/delete?id=64300e887262c57265be5267',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmZjZDUyYWI4MGZmNzA2MzA0Yjg0ZiIsImlhdCI6MTY4MDg3MDM2NiwiZXhwIjoxNjgwODczOTY2fQ.i_8wVuoeIOmPRAl2b770-gJRq4YYplMxa0cThQlvkIo',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'a8c60ede-0a17-49d1-91b8-a896a7fe87e3',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'DELETE',
+      httpVersion: '1.1',
+      originalUrl: '/role/delete?id=64300e887262c57265be5267',
+      query: { id: '64300e887262c57265be5267' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 2388
+  },
+  level: 'info',
+  message: 'HTTP DELETE /role/delete?id=64300e887262c57265be5267',
+  timestamp: '2023-04-07T12:48:36.195Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/all',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmZjZDUyYWI4MGZmNzA2MzA0Yjg0ZiIsImlhdCI6MTY4MDg3MDM2NiwiZXhwIjoxNjgwODczOTY2fQ.i_8wVuoeIOmPRAl2b770-gJRq4YYplMxa0cThQlvkIo',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'cc75b6aa-b84b-4e0b-9d5c-ac2853a5468b',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/all',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1320
+  },
+  level: 'info',
+  message: 'HTTP GET /role/all',
+  timestamp: '2023-04-07T12:48:51.361Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/delete?id=64300d698614fb2666588b16',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmZjZDUyYWI4MGZmNzA2MzA0Yjg0ZiIsImlhdCI6MTY4MDg3MDM2NiwiZXhwIjoxNjgwODczOTY2fQ.i_8wVuoeIOmPRAl2b770-gJRq4YYplMxa0cThQlvkIo',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'b824701f-2ed4-452d-9915-6a3350b15ddc',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'DELETE',
+      httpVersion: '1.1',
+      originalUrl: '/role/delete?id=64300d698614fb2666588b16',
+      query: { id: '64300d698614fb2666588b16' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 1684
+  },
+  level: 'info',
+  message: 'HTTP DELETE /role/delete?id=64300d698614fb2666588b16',
+  timestamp: '2023-04-07T12:49:06.581Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/all',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmZjZDUyYWI4MGZmNzA2MzA0Yjg0ZiIsImlhdCI6MTY4MDg3MDM2NiwiZXhwIjoxNjgwODczOTY2fQ.i_8wVuoeIOmPRAl2b770-gJRq4YYplMxa0cThQlvkIo',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '357a0422-c4cc-4f91-96d4-32cede721d31',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/all',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1548
+  },
+  level: 'info',
+  message: 'HTTP GET /role/all',
+  timestamp: '2023-04-07T12:49:11.322Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/delete?id=64300ccccbffdaef87fa0805',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmZjZDUyYWI4MGZmNzA2MzA0Yjg0ZiIsImlhdCI6MTY4MDg3MDM2NiwiZXhwIjoxNjgwODczOTY2fQ.i_8wVuoeIOmPRAl2b770-gJRq4YYplMxa0cThQlvkIo',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'c90320d9-7e37-4c73-ab89-67f20519e157',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'DELETE',
+      httpVersion: '1.1',
+      originalUrl: '/role/delete?id=64300ccccbffdaef87fa0805',
+      query: { id: '64300ccccbffdaef87fa0805' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 1791
+  },
+  level: 'info',
+  message: 'HTTP DELETE /role/delete?id=64300ccccbffdaef87fa0805',
+  timestamp: '2023-04-07T12:49:23.176Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/all',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmZjZDUyYWI4MGZmNzA2MzA0Yjg0ZiIsImlhdCI6MTY4MDg3MDM2NiwiZXhwIjoxNjgwODczOTY2fQ.i_8wVuoeIOmPRAl2b770-gJRq4YYplMxa0cThQlvkIo',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '3b1718a6-0225-4570-b5c0-e4fa40a34da8',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/all',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1809
+  },
+  level: 'info',
+  message: 'HTTP GET /role/all',
+  timestamp: '2023-04-07T12:49:28.504Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/delete?id=64300d42ff1d6b3507e836ca',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmZjZDUyYWI4MGZmNzA2MzA0Yjg0ZiIsImlhdCI6MTY4MDg3MDM2NiwiZXhwIjoxNjgwODczOTY2fQ.i_8wVuoeIOmPRAl2b770-gJRq4YYplMxa0cThQlvkIo',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'e3b61937-885d-466e-95dd-35949e57a93e',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'DELETE',
+      httpVersion: '1.1',
+      originalUrl: '/role/delete?id=64300d42ff1d6b3507e836ca',
+      query: { id: '64300d42ff1d6b3507e836ca' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 1513
+  },
+  level: 'info',
+  message: 'HTTP DELETE /role/delete?id=64300d42ff1d6b3507e836ca',
+  timestamp: '2023-04-07T12:49:42.843Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/all',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmZjZDUyYWI4MGZmNzA2MzA0Yjg0ZiIsImlhdCI6MTY4MDg3MDM2NiwiZXhwIjoxNjgwODczOTY2fQ.i_8wVuoeIOmPRAl2b770-gJRq4YYplMxa0cThQlvkIo',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '71937779-7456-4e17-ba14-87a02c10cba6',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/all',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1557
+  },
+  level: 'info',
+  message: 'HTTP GET /role/all',
+  timestamp: '2023-04-07T12:49:48.378Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/delete?id=64300c83dfb400eb21de9648',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmZjZDUyYWI4MGZmNzA2MzA0Yjg0ZiIsImlhdCI6MTY4MDg3MDM2NiwiZXhwIjoxNjgwODczOTY2fQ.i_8wVuoeIOmPRAl2b770-gJRq4YYplMxa0cThQlvkIo',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '89054ea9-3c1d-4282-918d-b9af766c1241',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'DELETE',
+      httpVersion: '1.1',
+      originalUrl: '/role/delete?id=64300c83dfb400eb21de9648',
+      query: { id: '64300c83dfb400eb21de9648' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 1838
+  },
+  level: 'info',
+  message: 'HTTP DELETE /role/delete?id=64300c83dfb400eb21de9648',
+  timestamp: '2023-04-07T12:49:59.027Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/all',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmZjZDUyYWI4MGZmNzA2MzA0Yjg0ZiIsImlhdCI6MTY4MDg3MDM2NiwiZXhwIjoxNjgwODczOTY2fQ.i_8wVuoeIOmPRAl2b770-gJRq4YYplMxa0cThQlvkIo',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '1e2c3021-75e8-4285-9266-4cc6c86bde5a',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/all',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1840
+  },
+  level: 'info',
+  message: 'HTTP GET /role/all',
+  timestamp: '2023-04-07T12:50:04.527Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/delete?id=64300c11114a211353e5bb93',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmZjZDUyYWI4MGZmNzA2MzA0Yjg0ZiIsImlhdCI6MTY4MDg3MDM2NiwiZXhwIjoxNjgwODczOTY2fQ.i_8wVuoeIOmPRAl2b770-gJRq4YYplMxa0cThQlvkIo',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '2d46ac56-0930-482d-a9ff-5f1a62042280',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'DELETE',
+      httpVersion: '1.1',
+      originalUrl: '/role/delete?id=64300c11114a211353e5bb93',
+      query: { id: '64300c11114a211353e5bb93' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 1319
+  },
+  level: 'info',
+  message: 'HTTP DELETE /role/delete?id=64300c11114a211353e5bb93',
+  timestamp: '2023-04-07T12:50:15.717Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/all',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmZjZDUyYWI4MGZmNzA2MzA0Yjg0ZiIsImlhdCI6MTY4MDg3MDM2NiwiZXhwIjoxNjgwODczOTY2fQ.i_8wVuoeIOmPRAl2b770-gJRq4YYplMxa0cThQlvkIo',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '1a1f6400-1ecd-4e42-abd1-c081290c94ef',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/role/all',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1432
+  },
+  level: 'info',
+  message: 'HTTP GET /role/all',
+  timestamp: '2023-04-07T12:50:25.196Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/delete?id=64300c11114a211353e5bb93',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmZjZDUyYWI4MGZmNzA2MzA0Yjg0ZiIsImlhdCI6MTY4MDg3MDM2NiwiZXhwIjoxNjgwODczOTY2fQ.i_8wVuoeIOmPRAl2b770-gJRq4YYplMxa0cThQlvkIo',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '9e03f945-b10f-473d-ba5f-88cd3f388aef',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'DELETE',
+      httpVersion: '1.1',
+      originalUrl: '/role/delete?id=64300c11114a211353e5bb93',
+      query: { id: '64300c11114a211353e5bb93' }
+    },
+    res: { statusCode: 422 },
+    responseTime: 2688
+  },
+  level: 'warn',
+  message: 'HTTP DELETE /role/delete?id=64300c11114a211353e5bb93',
+  timestamp: '2023-04-07T12:50:43.684Z'
+}
+{
+  meta: {
+    req: {
+      url: '/role/delete?id=642fd087a778cbb599f1a437',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmZjZDUyYWI4MGZmNzA2MzA0Yjg0ZiIsImlhdCI6MTY4MDg3MDM2NiwiZXhwIjoxNjgwODczOTY2fQ.i_8wVuoeIOmPRAl2b770-gJRq4YYplMxa0cThQlvkIo',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '3a75545a-bde4-446a-ba60-7fc6ffacb162',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive'
+      },
+      method: 'DELETE',
+      httpVersion: '1.1',
+      originalUrl: '/role/delete?id=642fd087a778cbb599f1a437',
+      query: { id: '642fd087a778cbb599f1a437' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 1922
+  },
+  level: 'info',
+  message: 'HTTP DELETE /role/delete?id=642fd087a778cbb599f1a437',
+  timestamp: '2023-04-07T12:50:58.023Z'
+}

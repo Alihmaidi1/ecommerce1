@@ -8,7 +8,8 @@ const permissions=[
     "brand",
     "currency",
     "copon",
-    "admin"
+    "admin",
+    "role"
 
 ];
 

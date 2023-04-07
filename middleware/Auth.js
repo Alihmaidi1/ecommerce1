@@ -1,7 +1,8 @@
 const jwt=require("jsonwebtoken");
+// const redis=require("../config/redis");
 module.exports=(type)=>{
 
-    return (req,res,next)=>{
+    return async(req,res,next)=>{
 
         let headerAuth=req.get("Authorization");
         if(!headerAuth){
@@ -17,7 +18,7 @@ module.exports=(type)=>{
         try{
 
             let user=jwt.verify(token,type);    
-            
+            // await redis.get(token)
             req.user=user
             return next()
 

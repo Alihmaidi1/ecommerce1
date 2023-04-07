@@ -12,6 +12,7 @@ const auth=require("./routes/admin/auth");
 const role=require("./routes/admin/role");
 const Auth = require("./middleware/Auth");
 const permission = require("./middleware/permission");
+const error=require("./middleware/error");
 
 app.use(express.static(path.join(__dirname,"public")));
 app.use(cor);
@@ -21,10 +22,10 @@ app.use(image);
 app.use(log)
 
 app.use(auth)
-app.use(Auth(process.env.TOKEN_KEY),permission("slider"),role)
+app.use(Auth(process.env.TOKEN_KEY),permission("role"),role)
 
 app.use(errorLog)
-
+app.use(error.notFound)
 
 database.connect(process.env.Database_URL).then(()=>{
     app.listen(port)
