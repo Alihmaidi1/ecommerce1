@@ -1,7 +1,7 @@
 const role=require("../../models/role");
 const admin=require("../../models/admin");
 const util=require("../../util/helper");
-
+const redis=require("../../config/redis");
 exports.login=async(req,res,next)=>{
 
     
@@ -38,13 +38,13 @@ exports.refreshtoken=(req,res,next)=>{
 }
 
 
-exports.logout=(req,res,next)=>{
+exports.logout=async(req,res,next)=>{
 
 
-    
-
-
-    res.status.json({message:"you are logout successfully"})
+        let token=req.get("Authorization").split(" ")[1];
+        await redis.del(token)
+        
+        res.status(200).json({message:"you are logout successfully"})
 
 
 

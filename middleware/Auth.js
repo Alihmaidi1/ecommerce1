@@ -1,5 +1,5 @@
 const jwt=require("jsonwebtoken");
-// const redis=require("../config/redis");
+const redis=require("../config/redis");
 module.exports=(type)=>{
 
     return async(req,res,next)=>{
@@ -18,13 +18,18 @@ module.exports=(type)=>{
         try{
 
             let user=jwt.verify(token,type);    
-            // await redis.get(token)
+            let id=await redis.get(token);
+            if(id==null){
+
+                return res.status(401).json({message:"Expired token"})
+
+            }
             req.user=user
             return next()
 
         }catch(ex){
 
-            res.status(401).json({message:"Invalid token"})
+            return res.status(401).json({message:"Invalid token"})
 
         }
         

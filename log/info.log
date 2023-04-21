@@ -7706,3 +7706,403 @@
   message: 'HTTP DELETE /role/delete?id=642fd087a778cbb599f1a437',
   timestamp: '2023-04-07T12:50:58.023Z'
 }
+{
+  meta: {
+    req: {
+      url: '/login',
+      headers: {
+        accept: 'application/json',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'e4219783-dd73-4914-847b-7f203c5ce329',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-type': 'application/x-www-form-urlencoded',
+        'content-length': '49'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/login',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 843
+  },
+  level: 'info',
+  message: 'HTTP POST /login',
+  timestamp: '2023-04-21T12:24:22.567Z'
+}
+{
+  meta: {
+    req: {
+      url: '/login',
+      headers: {
+        accept: 'application/json',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '22d8fe60-a942-4670-861b-7fd60fcd2b32',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-type': 'application/x-www-form-urlencoded',
+        'content-length': '49'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/login',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 815
+  },
+  level: 'info',
+  message: 'HTTP POST /login',
+  timestamp: '2023-04-21T12:27:31.794Z'
+}
+{
+  meta: {
+    req: {
+      url: '/login',
+      headers: {
+        accept: 'application/json',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'b9310a8b-d985-4d5f-94ab-a45393cbbee9',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-type': 'application/x-www-form-urlencoded',
+        'content-length': '49'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/login',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 826
+  },
+  level: 'info',
+  message: 'HTTP POST /login',
+  timestamp: '2023-04-21T12:28:56.884Z'
+}
+{
+  meta: {
+    req: {
+      url: '/login',
+      headers: {
+        accept: 'application/json',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '0ed6670d-ccd7-4169-ac32-b7603c4a48b6',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-type': 'application/x-www-form-urlencoded',
+        'content-length': '49'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/login',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 827
+  },
+  level: 'info',
+  message: 'HTTP POST /login',
+  timestamp: '2023-04-21T12:30:00.907Z'
+}
+{
+  meta: {
+    req: {
+      url: '/admin/logout',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmZjZDUyYWI4MGZmNzA2MzA0Yjg0ZiIsImlhdCI6MTY4MDg3MDM2NiwiZXhwIjoxNjgwODczOTY2fQ.i_8wVuoeIOmPRAl2b770-gJRq4YYplMxa0cThQlvkIo',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '1001d556-3f2c-4482-95cd-f6c241975ece',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '0'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/admin/logout',
+      query: {}
+    },
+    res: { statusCode: 500 },
+    responseTime: 7
+  },
+  level: 'error',
+  message: 'HTTP POST /admin/logout',
+  timestamp: '2023-04-21T12:37:27.078Z'
+}
+{
+  meta: {
+    req: {
+      url: '/admin/logout',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmZjZDUyYWI4MGZmNzA2MzA0Yjg0ZiIsImlhdCI6MTY4MDg3MDM2NiwiZXhwIjoxNjgwODczOTY2fQ.i_8wVuoeIOmPRAl2b770-gJRq4YYplMxa0cThQlvkIo',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '43efe8e9-2ff2-4ddb-97ca-8c7fc36c1127',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '0'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/admin/logout',
+      query: {}
+    },
+    res: { statusCode: 500 },
+    responseTime: 9
+  },
+  level: 'error',
+  message: 'HTTP POST /admin/logout',
+  timestamp: '2023-04-21T12:39:39.516Z'
+}
+{
+  meta: {
+    req: {
+      url: '/admin/logout',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmZjZDUyYWI4MGZmNzA2MzA0Yjg0ZiIsImlhdCI6MTY4MDg3MDM2NiwiZXhwIjoxNjgwODczOTY2fQ.i_8wVuoeIOmPRAl2b770-gJRq4YYplMxa0cThQlvkIo',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'ce8c4b15-78bc-4dc4-9645-f7cd64579e31',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '0'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/admin/logout',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 2
+  },
+  level: 'info',
+  message: 'HTTP POST /admin/logout',
+  timestamp: '2023-04-21T12:40:08.250Z'
+}
+{
+  meta: {
+    req: {
+      url: '/admin/logout',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmZjZDUyYWI4MGZmNzA2MzA0Yjg0ZiIsImlhdCI6MTY4MDg3MDM2NiwiZXhwIjoxNjgwODczOTY2fQ.i_8wVuoeIOmPRAl2b770-gJRq4YYplMxa0cThQlvkIo',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'fa6e1d89-37e3-4d96-956a-ec4e03cfd7d2',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '0'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/admin/logout',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 3
+  },
+  level: 'info',
+  message: 'HTTP POST /admin/logout',
+  timestamp: '2023-04-21T12:40:22.710Z'
+}
+{
+  meta: {
+    req: {
+      url: '/admin/logout',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmZjZDUyYWI4MGZmNzA2MzA0Yjg0ZiIsImlhdCI6MTY4MDg3MDM2NiwiZXhwIjoxNjgwODczOTY2fQ.i_8wVuoeIOmPRAl2b770-gJRq4YYplMxa0cThQlvkIo',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '3fa27fd0-eef3-4b3d-b95f-0fec3bcf8473',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '0'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/admin/logout',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'HTTP POST /admin/logout',
+  timestamp: '2023-04-21T12:40:23.889Z'
+}
+{
+  meta: {
+    req: {
+      url: '/admin/logout',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmZjZDUyYWI4MGZmNzA2MzA0Yjg0ZiIsImlhdCI6MTY4MDg3MDM2NiwiZXhwIjoxNjgwODczOTY2fQ.i_8wVuoeIOmPRAl2b770-gJRq4YYplMxa0cThQlvkIo',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'c4428174-f563-4ff4-95c1-8c96f61ec668',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '0'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/admin/logout',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'HTTP POST /admin/logout',
+  timestamp: '2023-04-21T12:40:28.124Z'
+}
+{
+  meta: {
+    req: {
+      url: '/admin/logout',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmZjZDUyYWI4MGZmNzA2MzA0Yjg0ZiIsImlhdCI6MTY4MDg3MDM2NiwiZXhwIjoxNjgwODczOTY2fQ.i_8wVuoeIOmPRAl2b770-gJRq4YYplMxa0cThQlvkIo',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '12c09ab5-2e7c-450c-b731-130172377ec8',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '0'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/admin/logout',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 3
+  },
+  level: 'info',
+  message: 'HTTP POST /admin/logout',
+  timestamp: '2023-04-21T12:40:48.468Z'
+}
+{
+  meta: {
+    req: {
+      url: '/admin/logout',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmZjZDUyYWI4MGZmNzA2MzA0Yjg0ZiIsImlhdCI6MTY4MDg3MDM2NiwiZXhwIjoxNjgwODczOTY2fQ.i_8wVuoeIOmPRAl2b770-gJRq4YYplMxa0cThQlvkIo',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '835d40f3-9374-4804-b5e5-0a40d65e201d',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '0'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/admin/logout',
+      query: {}
+    },
+    res: { statusCode: 401 },
+    responseTime: 3
+  },
+  level: 'warn',
+  message: 'HTTP POST /admin/logout',
+  timestamp: '2023-04-21T12:41:21.463Z'
+}
+{
+  meta: {
+    req: {
+      url: '/login',
+      headers: {
+        accept: 'application/json',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'd86c106f-e064-48af-a382-68598abbee41',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-type': 'application/x-www-form-urlencoded',
+        'content-length': '49'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/login',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 768
+  },
+  level: 'info',
+  message: 'HTTP POST /login',
+  timestamp: '2023-04-21T12:45:50.746Z'
+}
+{
+  meta: {
+    req: {
+      url: '/admin/logout',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmZjZDUyYWI4MGZmNzA2MzA0Yjg0ZiIsImlhdCI6MTY4MjA4MTE1MCwiZXhwIjoxNjgyMDg0NzUwfQ.EmsOV8v6xbCiHYd9MCJOfMYrrdMRIluF_ugg5y9C8CE',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': '780905a0-3bdb-4409-a093-7fca893b197c',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '0'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/admin/logout',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 2
+  },
+  level: 'info',
+  message: 'HTTP POST /admin/logout',
+  timestamp: '2023-04-21T12:46:11.294Z'
+}
+{
+  meta: {
+    req: {
+      url: '/admin/logout',
+      headers: {
+        accept: 'application/json',
+        'content-type': 'application/json',
+        authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MmZjZDUyYWI4MGZmNzA2MzA0Yjg0ZiIsImlhdCI6MTY4MjA4MTE1MCwiZXhwIjoxNjgyMDg0NzUwfQ.EmsOV8v6xbCiHYd9MCJOfMYrrdMRIluF_ugg5y9C8CE',
+        'user-agent': 'PostmanRuntime/7.31.3',
+        'postman-token': 'fea7f042-c5c6-4434-b5ea-5630df5554e4',
+        host: 'localhost:4003',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '0'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/admin/logout',
+      query: {}
+    },
+    res: { statusCode: 401 },
+    responseTime: 2
+  },
+  level: 'warn',
+  message: 'HTTP POST /admin/logout',
+  timestamp: '2023-04-21T12:46:12.596Z'
+}
